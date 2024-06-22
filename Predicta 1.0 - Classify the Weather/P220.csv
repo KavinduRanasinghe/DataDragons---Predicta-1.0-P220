@@ -1,0 +1,2894 @@
+day_id,condition_text
+D0001  ,Partly Cloudy
+D0002  ,Cloudy and Overcast
+D0003  ,Light Rain with Thunder
+D0004  ,Clear and Sunny
+D0005  ,Cloudy and Overcast
+D0006  ,Cloudy and Overcast
+D0007  ,Partly Cloudy
+D0008  ,Cloudy and Overcast
+D0009  ,Cloudy and Overcast
+D0010  ,Cloudy and Overcast
+D0011  ,Clear and Sunny
+D0012  ,Partly Cloudy
+D0013  ,Light Precipitation
+D0014  ,Light Precipitation
+D0015  ,Cloudy and Overcast
+D0016  ,Partly Cloudy
+D0017  ,Clear and Sunny
+D0018  ,Cloudy and Overcast
+D0019  ,Clear and Sunny
+D0020  ,Cloudy and Overcast
+D0021  ,Cloudy and Overcast
+D0022  ,Clear and Sunny
+D0023  ,Partly Cloudy
+D0024  ,Light Precipitation
+D0025  ,Cloudy and Overcast
+D0026  ,Clear and Sunny
+D0027  ,Light Precipitation
+D0028  ,Partly Cloudy
+D0029  ,Clear and Sunny
+D0030  ,Clear and Sunny
+D0031  ,Partly Cloudy
+D0032  ,Cloudy and Overcast
+D0033  ,Light Precipitation
+D0034  ,Light Precipitation
+D0035  ,Partly Cloudy
+D0036  ,Clear and Sunny
+D0037  ,Light Precipitation
+D0038  ,Light Precipitation
+D0039  ,Light Precipitation
+D0040  ,Light Precipitation
+D0041  ,Partly Cloudy
+D0042  ,Light Rain with Thunder
+D0043  ,Cloudy and Overcast
+D0044  ,Cloudy and Overcast
+D0045  ,Light Precipitation
+D0046  ,Cloudy and Overcast
+D0047  ,Rain Showers
+D0048  ,Light Precipitation
+D0049  ,Light Precipitation
+D0050  ,Cloudy and Overcast
+D0051  ,Clear and Sunny
+D0052  ,Mist or Fog
+D0053  ,Light Precipitation
+D0054  ,Cloudy and Overcast
+D0055  ,Mist or Fog
+D0056  ,Light Precipitation
+D0057  ,Light Precipitation
+D0058  ,Cloudy and Overcast
+D0059  ,Light Precipitation
+D0060  ,Cloudy and Overcast
+D0061  ,Mist or Fog
+D0062  ,Light Precipitation
+D0063  ,Partly Cloudy
+D0064  ,Cloudy and Overcast
+D0065  ,Light Precipitation
+D0066  ,Clear and Sunny
+D0067  ,Partly Cloudy
+D0068  ,Clear and Sunny
+D0069  ,Light Precipitation
+D0070  ,Cloudy and Overcast
+D0071  ,Light Precipitation
+D0072  ,Partly Cloudy
+D0073  ,Partly Cloudy
+D0074  ,Partly Cloudy
+D0075  ,Partly Cloudy
+D0076  ,Clear and Sunny
+D0077  ,Partly Cloudy
+D0078  ,Light Precipitation
+D0079  ,Light Precipitation
+D0080  ,Cloudy and Overcast
+D0081  ,Cloudy and Overcast
+D0082  ,Light Precipitation
+D0083  ,Cloudy and Overcast
+D0084  ,Mist or Fog
+D0085  ,Mist or Fog
+D0086  ,Light Precipitation
+D0087  ,Cloudy and Overcast
+D0088  ,Mist or Fog
+D0089  ,Partly Cloudy
+D0090  ,Partly Cloudy
+D0091  ,Mist or Fog
+D0092  ,Partly Cloudy
+D0093  ,Partly Cloudy
+D0094  ,Mist or Fog
+D0095  ,Cloudy and Overcast
+D0096  ,Light Precipitation
+D0097  ,Clear and Sunny
+D0098  ,Partly Cloudy
+D0099  ,Partly Cloudy
+D0100  ,Clear and Sunny
+D0101  ,Cloudy and Overcast
+D0102  ,Cloudy and Overcast
+D0103  ,Cloudy and Overcast
+D0104  ,Cloudy and Overcast
+D0105  ,Clear and Sunny
+D0106  ,Clear and Sunny
+D0107  ,Clear and Sunny
+D0108  ,Clear and Sunny
+D0109  ,Clear and Sunny
+D0110  ,Clear and Sunny
+D0111  ,Cloudy and Overcast
+D0112  ,Clear and Sunny
+D0113  ,Clear and Sunny
+D0114  ,Clear and Sunny
+D0115  ,Light Precipitation
+D0116  ,Partly Cloudy
+D0117  ,Clear and Sunny
+D0118  ,Clear and Sunny
+D0119  ,Light Precipitation
+D0120  ,Partly Cloudy
+D0121  ,Clear and Sunny
+D0122  ,Clear and Sunny
+D0123  ,Clear and Sunny
+D0124  ,Light Precipitation
+D0125  ,Clear and Sunny
+D0126  ,Clear and Sunny
+D0127  ,Partly Cloudy
+D0128  ,Light Precipitation
+D0129  ,Light Precipitation
+D0130  ,Cloudy and Overcast
+D0131  ,Clear and Sunny
+D0132  ,Clear and Sunny
+D0133  ,Clear and Sunny
+D0134  ,Clear and Sunny
+D0135  ,Clear and Sunny
+D0136  ,Clear and Sunny
+D0137  ,Clear and Sunny
+D0138  ,Clear and Sunny
+D0139  ,Clear and Sunny
+D0140  ,Clear and Sunny
+D0141  ,Clear and Sunny
+D0142  ,Clear and Sunny
+D0143  ,Light Precipitation
+D0144  ,Partly Cloudy
+D0145  ,Clear and Sunny
+D0146  ,Light Precipitation
+D0147  ,Light Precipitation
+D0148  ,Clear and Sunny
+D0149  ,Clear and Sunny
+D0150  ,Clear and Sunny
+D0151  ,Clear and Sunny
+D0152  ,Clear and Sunny
+D0153  ,Clear and Sunny
+D0154  ,Clear and Sunny
+D0155  ,Clear and Sunny
+D0156  ,Clear and Sunny
+D0157  ,Clear and Sunny
+D0158  ,Cloudy and Overcast
+D0159  ,Mist or Fog
+D0160  ,Clear and Sunny
+D0161  ,Clear and Sunny
+D0162  ,Light Precipitation
+D0163  ,Mist or Fog
+D0164  ,Clear and Sunny
+D0165  ,Light Precipitation
+D0166  ,Clear and Sunny
+D0167  ,Light Precipitation
+D0168  ,Light Precipitation
+D0169  ,Light Precipitation
+D0170  ,Clear and Sunny
+D0171  ,Light Precipitation
+D0172  ,Clear and Sunny
+D0173  ,Clear and Sunny
+D0174  ,Clear and Sunny
+D0175  ,Clear and Sunny
+D0176  ,Clear and Sunny
+D0177  ,Clear and Sunny
+D0178  ,Clear and Sunny
+D0179  ,Clear and Sunny
+D0180  ,Clear and Sunny
+D0181  ,Clear and Sunny
+D0182  ,Clear and Sunny
+D0183  ,Light Precipitation
+D0184  ,Light Precipitation
+D0185  ,Light Precipitation
+D0186  ,Clear and Sunny
+D0187  ,Clear and Sunny
+D0188  ,Clear and Sunny
+D0189  ,Light Precipitation
+D0190  ,Partly Cloudy
+D0191  ,Clear and Sunny
+D0192  ,Clear and Sunny
+D0193  ,Clear and Sunny
+D0194  ,Clear and Sunny
+D0195  ,Clear and Sunny
+D0196  ,Clear and Sunny
+D0197  ,Cloudy and Overcast
+D0198  ,Clear and Sunny
+D0199  ,Clear and Sunny
+D0200  ,Cloudy and Overcast
+D0201  ,Clear and Sunny
+D0202  ,Clear and Sunny
+D0203  ,Clear and Sunny
+D0204  ,Clear and Sunny
+D0205  ,Clear and Sunny
+D0206  ,Clear and Sunny
+D0207  ,Light Precipitation
+D0208  ,Light Precipitation
+D0209  ,Clear and Sunny
+D0210  ,Clear and Sunny
+D0211  ,Clear and Sunny
+D0212  ,Clear and Sunny
+D0213  ,Clear and Sunny
+D0214  ,Clear and Sunny
+D0215  ,Partly Cloudy
+D0216  ,Light Precipitation
+D0217  ,Partly Cloudy
+D0218  ,Mist or Fog
+D0219  ,Light Precipitation
+D0220  ,Cloudy and Overcast
+D0221  ,Partly Cloudy
+D0222  ,Partly Cloudy
+D0223  ,Clear and Sunny
+D0224  ,Partly Cloudy
+D0225  ,Clear and Sunny
+D0226  ,Clear and Sunny
+D0227  ,Clear and Sunny
+D0228  ,Clear and Sunny
+D0229  ,Partly Cloudy
+D0230  ,Clear and Sunny
+D0231  ,Light Precipitation
+D0232  ,Clear and Sunny
+D0233  ,Light Precipitation
+D0234  ,Light Precipitation
+D0235  ,Cloudy and Overcast
+D0236  ,Clear and Sunny
+D0237  ,Cloudy and Overcast
+D0238  ,Light Precipitation
+D0239  ,Cloudy and Overcast
+D0240  ,Rain Showers
+D0241  ,Rain Showers
+D0242  ,Partly Cloudy
+D0243  ,Light Precipitation
+D0244  ,Cloudy and Overcast
+D0245  ,Rain Showers
+D0246  ,Partly Cloudy
+D0247  ,Light Precipitation
+D0248  ,Light Precipitation
+D0249  ,Cloudy and Overcast
+D0250  ,Cloudy and Overcast
+D0251  ,Light Precipitation
+D0252  ,Mist or Fog
+D0253  ,Light Rain with Thunder
+D0254  ,Light Precipitation
+D0255  ,Light Precipitation
+D0256  ,Moderate to Heavy Rain
+D0257  ,Cloudy and Overcast
+D0258  ,Light Precipitation
+D0259  ,Mist or Fog
+D0260  ,Light Precipitation
+D0261  ,Clear and Sunny
+D0262  ,Partly Cloudy
+D0263  ,Cloudy and Overcast
+D0264  ,Partly Cloudy
+D0265  ,Clear and Sunny
+D0266  ,Light Precipitation
+D0267  ,Light Precipitation
+D0268  ,Mist or Fog
+D0269  ,Clear and Sunny
+D0270  ,Light Precipitation
+D0271  ,Light Precipitation
+D0272  ,Cloudy and Overcast
+D0273  ,Clear and Sunny
+D0274  ,Cloudy and Overcast
+D0275  ,Mist or Fog
+D0276  ,Clear and Sunny
+D0277  ,Mist or Fog
+D0278  ,Cloudy and Overcast
+D0279  ,Mist or Fog
+D0280  ,Clear and Sunny
+D0281  ,Cloudy and Overcast
+D0282  ,Clear and Sunny
+D0283  ,Clear and Sunny
+D0284  ,Partly Cloudy
+D0285  ,Clear and Sunny
+D0286  ,Clear and Sunny
+D0287  ,Clear and Sunny
+D0288  ,Cloudy and Overcast
+D0289  ,Clear and Sunny
+D0290  ,Cloudy and Overcast
+D0291  ,Clear and Sunny
+D0292  ,Cloudy and Overcast
+D0293  ,Light Precipitation
+D0294  ,Light Precipitation
+D0295  ,Clear and Sunny
+D0296  ,Partly Cloudy
+D0297  ,Clear and Sunny
+D0298  ,Mist or Fog
+D0299  ,Clear and Sunny
+D0300  ,Clear and Sunny
+D0301  ,Clear and Sunny
+D0302  ,Light Precipitation
+D0303  ,Light Precipitation
+D0304  ,Clear and Sunny
+D0305  ,Clear and Sunny
+D0306  ,Mist or Fog
+D0307  ,Partly Cloudy
+D0308  ,Light Precipitation
+D0309  ,Light Precipitation
+D0310  ,Clear and Sunny
+D0311  ,Partly Cloudy
+D0312  ,Clear and Sunny
+D0313  ,Light Precipitation
+D0314  ,Clear and Sunny
+D0315  ,Clear and Sunny
+D0316  ,Cloudy and Overcast
+D0317  ,Clear and Sunny
+D0318  ,Partly Cloudy
+D0319  ,Cloudy and Overcast
+D0320  ,Cloudy and Overcast
+D0321  ,Cloudy and Overcast
+D0322  ,Light Precipitation
+D0323  ,Cloudy and Overcast
+D0324  ,Clear and Sunny
+D0325  ,Partly Cloudy
+D0326  ,Partly Cloudy
+D0327  ,Partly Cloudy
+D0328  ,Clear and Sunny
+D0329  ,Light Precipitation
+D0330  ,Cloudy and Overcast
+D0331  ,Cloudy and Overcast
+D0332  ,Mist or Fog
+D0333  ,Clear and Sunny
+D0334  ,Clear and Sunny
+D0335  ,Cloudy and Overcast
+D0336  ,Clear and Sunny
+D0337  ,Partly Cloudy
+D0338  ,Clear and Sunny
+D0339  ,Clear and Sunny
+D0340  ,Cloudy and Overcast
+D0341  ,Partly Cloudy
+D0342  ,Cloudy and Overcast
+D0343  ,Partly Cloudy
+D0344  ,Rain Showers
+D0345  ,Thunderstorms
+D0346  ,Light Precipitation
+D0347  ,Rain Showers
+D0348  ,Cloudy and Overcast
+D0349  ,Partly Cloudy
+D0350  ,Partly Cloudy
+D0351  ,Clear and Sunny
+D0352  ,Clear and Sunny
+D0353  ,Clear and Sunny
+D0354  ,Clear and Sunny
+D0355  ,Clear and Sunny
+D0356  ,Mist or Fog
+D0357  ,Rain Showers
+D0358  ,Clear and Sunny
+D0359  ,Clear and Sunny
+D0360  ,Clear and Sunny
+D0361  ,Cloudy and Overcast
+D0362  ,Clear and Sunny
+D0363  ,Clear and Sunny
+D0364  ,Clear and Sunny
+D0365  ,Partly Cloudy
+D0366  ,Partly Cloudy
+D0367  ,Light Precipitation
+D0368  ,Light Precipitation
+D0369  ,Clear and Sunny
+D0370  ,Light Precipitation
+D0371  ,Mist or Fog
+D0372  ,Light Precipitation
+D0373  ,Light Precipitation
+D0374  ,Partly Cloudy
+D0375  ,Light Precipitation
+D0376  ,Partly Cloudy
+D0377  ,Light Precipitation
+D0378  ,Light Precipitation
+D0379  ,Partly Cloudy
+D0380  ,Light Precipitation
+D0381  ,Mist or Fog
+D0382  ,Cloudy and Overcast
+D0383  ,Light Precipitation
+D0384  ,Cloudy and Overcast
+D0385  ,Cloudy and Overcast
+D0386  ,Partly Cloudy
+D0387  ,Light Precipitation
+D0388  ,Clear and Sunny
+D0389  ,Partly Cloudy
+D0390  ,Partly Cloudy
+D0391  ,Light Precipitation
+D0392  ,Clear and Sunny
+D0393  ,Clear and Sunny
+D0394  ,Clear and Sunny
+D0395  ,Clear and Sunny
+D0396  ,Clear and Sunny
+D0397  ,Clear and Sunny
+D0398  ,Light Precipitation
+D0399  ,Light Precipitation
+D0400  ,Light Precipitation
+D0401  ,Cloudy and Overcast
+D0402  ,Light Precipitation
+D0403  ,Partly Cloudy
+D0404  ,Light Precipitation
+D0405  ,Partly Cloudy
+D0406  ,Clear and Sunny
+D0407  ,Partly Cloudy
+D0408  ,Clear and Sunny
+D0409  ,Clear and Sunny
+D0410  ,Clear and Sunny
+D0411  ,Clear and Sunny
+D0412  ,Clear and Sunny
+D0413  ,Light Precipitation
+D0414  ,Partly Cloudy
+D0415  ,Clear and Sunny
+D0416  ,Clear and Sunny
+D0417  ,Partly Cloudy
+D0418  ,Cloudy and Overcast
+D0419  ,Mist or Fog
+D0420  ,Partly Cloudy
+D0421  ,Mist or Fog
+D0422  ,Clear and Sunny
+D0423  ,Clear and Sunny
+D0424  ,Clear and Sunny
+D0425  ,Partly Cloudy
+D0426  ,Light Precipitation
+D0427  ,Partly Cloudy
+D0428  ,Light Precipitation
+D0429  ,Cloudy and Overcast
+D0430  ,Partly Cloudy
+D0431  ,Clear and Sunny
+D0432  ,Cloudy and Overcast
+D0433  ,Partly Cloudy
+D0434  ,Partly Cloudy
+D0435  ,Cloudy and Overcast
+D0436  ,Cloudy and Overcast
+D0437  ,Partly Cloudy
+D0438  ,Cloudy and Overcast
+D0439  ,Light Precipitation
+D0440  ,Light Precipitation
+D0441  ,Mist or Fog
+D0442  ,Light Precipitation
+D0443  ,Cloudy and Overcast
+D0444  ,Partly Cloudy
+D0445  ,Light Precipitation
+D0446  ,Light Precipitation
+D0447  ,Mist or Fog
+D0448  ,Light Precipitation
+D0449  ,Cloudy and Overcast
+D0450  ,Cloudy and Overcast
+D0451  ,Cloudy and Overcast
+D0452  ,Cloudy and Overcast
+D0453  ,Cloudy and Overcast
+D0454  ,Mist or Fog
+D0455  ,Cloudy and Overcast
+D0456  ,Cloudy and Overcast
+D0457  ,Partly Cloudy
+D0458  ,Cloudy and Overcast
+D0459  ,Light Precipitation
+D0460  ,Cloudy and Overcast
+D0461  ,Light Precipitation
+D0462  ,Light Precipitation
+D0463  ,Cloudy and Overcast
+D0464  ,Cloudy and Overcast
+D0465  ,Cloudy and Overcast
+D0466  ,Partly Cloudy
+D0467  ,Partly Cloudy
+D0468  ,Light Precipitation
+D0469  ,Light Precipitation
+D0470  ,Mist or Fog
+D0471  ,Cloudy and Overcast
+D0472  ,Clear and Sunny
+D0473  ,Clear and Sunny
+D0474  ,Partly Cloudy
+D0475  ,Cloudy and Overcast
+D0476  ,Light Precipitation
+D0477  ,Clear and Sunny
+D0478  ,Cloudy and Overcast
+D0479  ,Light Precipitation
+D0480  ,Partly Cloudy
+D0481  ,Cloudy and Overcast
+D0482  ,Mist or Fog
+D0483  ,Mist or Fog
+D0484  ,Light Precipitation
+D0485  ,Cloudy and Overcast
+D0486  ,Cloudy and Overcast
+D0487  ,Partly Cloudy
+D0488  ,Clear and Sunny
+D0489  ,Light Precipitation
+D0490  ,Light Precipitation
+D0491  ,Rain Showers
+D0492  ,Partly Cloudy
+D0493  ,Clear and Sunny
+D0494  ,Clear and Sunny
+D0495  ,Partly Cloudy
+D0496  ,Cloudy and Overcast
+D0497  ,Clear and Sunny
+D0498  ,Mist or Fog
+D0499  ,Light Precipitation
+D0500  ,Thunderstorms
+D0501  ,Light Rain with Thunder
+D0502  ,Mist or Fog
+D0503  ,Light Precipitation
+D0504  ,Rain Showers
+D0505  ,Light Precipitation
+D0506  ,Light Precipitation
+D0507  ,Clear and Sunny
+D0508  ,Mist or Fog
+D0509  ,Partly Cloudy
+D0510  ,Light Precipitation
+D0511  ,Mist or Fog
+D0512  ,Clear and Sunny
+D0513  ,Light Precipitation
+D0514  ,Clear and Sunny
+D0515  ,Light Precipitation
+D0516  ,Partly Cloudy
+D0517  ,Light Precipitation
+D0518  ,Light Rain with Thunder
+D0519  ,Light Precipitation
+D0520  ,Mist or Fog
+D0521  ,Clear and Sunny
+D0522  ,Partly Cloudy
+D0523  ,Light Precipitation
+D0524  ,Light Precipitation
+D0525  ,Cloudy and Overcast
+D0526  ,Mist or Fog
+D0527  ,Partly Cloudy
+D0528  ,Rain Showers
+D0529  ,Mist or Fog
+D0530  ,Moderate to Heavy Rain
+D0531  ,Mist or Fog
+D0532  ,Cloudy and Overcast
+D0533  ,Mist or Fog
+D0534  ,Cloudy and Overcast
+D0535  ,Partly Cloudy
+D0536  ,Partly Cloudy
+D0537  ,Light Precipitation
+D0538  ,Partly Cloudy
+D0539  ,Partly Cloudy
+D0540  ,Partly Cloudy
+D0541  ,Partly Cloudy
+D0542  ,Mist or Fog
+D0543  ,Partly Cloudy
+D0544  ,Partly Cloudy
+D0545  ,Clear and Sunny
+D0546  ,Partly Cloudy
+D0547  ,Clear and Sunny
+D0548  ,Clear and Sunny
+D0549  ,Clear and Sunny
+D0550  ,Partly Cloudy
+D0551  ,Partly Cloudy
+D0552  ,Partly Cloudy
+D0553  ,Partly Cloudy
+D0554  ,Mist or Fog
+D0555  ,Partly Cloudy
+D0556  ,Mist or Fog
+D0557  ,Mist or Fog
+D0558  ,Rain Showers
+D0559  ,Mist or Fog
+D0560  ,Mist or Fog
+D0561  ,Clear and Sunny
+D0562  ,Clear and Sunny
+D0563  ,Clear and Sunny
+D0564  ,Partly Cloudy
+D0565  ,Clear and Sunny
+D0566  ,Cloudy and Overcast
+D0567  ,Light Precipitation
+D0568  ,Light Precipitation
+D0569  ,Cloudy and Overcast
+D0570  ,Clear and Sunny
+D0571  ,Clear and Sunny
+D0572  ,Clear and Sunny
+D0573  ,Light Precipitation
+D0574  ,Light Precipitation
+D0575  ,Clear and Sunny
+D0576  ,Mist or Fog
+D0577  ,Clear and Sunny
+D0578  ,Light Precipitation
+D0579  ,Clear and Sunny
+D0580  ,Clear and Sunny
+D0581  ,Partly Cloudy
+D0582  ,Clear and Sunny
+D0583  ,Clear and Sunny
+D0584  ,Clear and Sunny
+D0585  ,Clear and Sunny
+D0586  ,Clear and Sunny
+D0587  ,Light Precipitation
+D0588  ,Clear and Sunny
+D0589  ,Cloudy and Overcast
+D0590  ,Clear and Sunny
+D0591  ,Clear and Sunny
+D0592  ,Light Precipitation
+D0593  ,Clear and Sunny
+D0594  ,Clear and Sunny
+D0595  ,Light Precipitation
+D0596  ,Clear and Sunny
+D0597  ,Clear and Sunny
+D0598  ,Clear and Sunny
+D0599  ,Partly Cloudy
+D0600  ,Cloudy and Overcast
+D0601  ,Light Precipitation
+D0602  ,Partly Cloudy
+D0603  ,Partly Cloudy
+D0604  ,Partly Cloudy
+D0605  ,Partly Cloudy
+D0606  ,Clear and Sunny
+D0607  ,Partly Cloudy
+D0608  ,Partly Cloudy
+D0609  ,Partly Cloudy
+D0610  ,Mist or Fog
+D0611  ,Mist or Fog
+D0612  ,Cloudy and Overcast
+D0613  ,Mist or Fog
+D0614  ,Clear and Sunny
+D0615  ,Partly Cloudy
+D0616  ,Mist or Fog
+D0617  ,Mist or Fog
+D0618  ,Cloudy and Overcast
+D0619  ,Partly Cloudy
+D0620  ,Mist or Fog
+D0621  ,Light Precipitation
+D0622  ,Light Precipitation
+D0623  ,Clear and Sunny
+D0624  ,Mist or Fog
+D0625  ,Cloudy and Overcast
+D0626  ,Cloudy and Overcast
+D0627  ,Partly Cloudy
+D0628  ,Clear and Sunny
+D0629  ,Partly Cloudy
+D0630  ,Mist or Fog
+D0631  ,Light Precipitation
+D0632  ,Clear and Sunny
+D0633  ,Clear and Sunny
+D0634  ,Clear and Sunny
+D0635  ,Clear and Sunny
+D0636  ,Clear and Sunny
+D0637  ,Clear and Sunny
+D0638  ,Clear and Sunny
+D0639  ,Clear and Sunny
+D0640  ,Clear and Sunny
+D0641  ,Partly Cloudy
+D0642  ,Cloudy and Overcast
+D0643  ,Clear and Sunny
+D0644  ,Clear and Sunny
+D0645  ,Clear and Sunny
+D0646  ,Clear and Sunny
+D0647  ,Clear and Sunny
+D0648  ,Clear and Sunny
+D0649  ,Clear and Sunny
+D0650  ,Light Precipitation
+D0651  ,Partly Cloudy
+D0652  ,Cloudy and Overcast
+D0653  ,Clear and Sunny
+D0654  ,Cloudy and Overcast
+D0655  ,Clear and Sunny
+D0656  ,Clear and Sunny
+D0657  ,Cloudy and Overcast
+D0658  ,Light Precipitation
+D0659  ,Cloudy and Overcast
+D0660  ,Cloudy and Overcast
+D0661  ,Light Precipitation
+D0662  ,Clear and Sunny
+D0663  ,Clear and Sunny
+D0664  ,Rain Showers
+D0665  ,Light Precipitation
+D0666  ,Clear and Sunny
+D0667  ,Mist or Fog
+D0668  ,Partly Cloudy
+D0669  ,Partly Cloudy
+D0670  ,Partly Cloudy
+D0671  ,Mist or Fog
+D0672  ,Mist or Fog
+D0673  ,Mist or Fog
+D0674  ,Clear and Sunny
+D0675  ,Clear and Sunny
+D0676  ,Light Precipitation
+D0677  ,Rain Showers
+D0678  ,Rain Showers
+D0679  ,Light Precipitation
+D0680  ,Rain Showers
+D0681  ,Partly Cloudy
+D0682  ,Cloudy and Overcast
+D0683  ,Mist or Fog
+D0684  ,Rain Showers
+D0685  ,Cloudy and Overcast
+D0686  ,Mist or Fog
+D0687  ,Cloudy and Overcast
+D0688  ,Cloudy and Overcast
+D0689  ,Partly Cloudy
+D0690  ,Cloudy and Overcast
+D0691  ,Rain Showers
+D0692  ,Cloudy and Overcast
+D0693  ,Cloudy and Overcast
+D0694  ,Partly Cloudy
+D0695  ,Cloudy and Overcast
+D0696  ,Mist or Fog
+D0697  ,Cloudy and Overcast
+D0698  ,Partly Cloudy
+D0699  ,Light Precipitation
+D0700  ,Light Precipitation
+D0701  ,Cloudy and Overcast
+D0702  ,Mist or Fog
+D0703  ,Light Precipitation
+D0704  ,Partly Cloudy
+D0705  ,Cloudy and Overcast
+D0706  ,Cloudy and Overcast
+D0707  ,Cloudy and Overcast
+D0708  ,Cloudy and Overcast
+D0709  ,Cloudy and Overcast
+D0710  ,Mist or Fog
+D0711  ,Partly Cloudy
+D0712  ,Cloudy and Overcast
+D0713  ,Cloudy and Overcast
+D0714  ,Mist or Fog
+D0715  ,Cloudy and Overcast
+D0716  ,Light Precipitation
+D0717  ,Cloudy and Overcast
+D0718  ,Partly Cloudy
+D0719  ,Cloudy and Overcast
+D0720  ,Mist or Fog
+D0721  ,Light Precipitation
+D0722  ,Light Precipitation
+D0723  ,Cloudy and Overcast
+D0724  ,Cloudy and Overcast
+D0725  ,Light Precipitation
+D0726  ,Cloudy and Overcast
+D0727  ,Light Precipitation
+D0728  ,Cloudy and Overcast
+D0729  ,Mist or Fog
+D0730  ,Light Precipitation
+D0731  ,Partly Cloudy
+D0732  ,Partly Cloudy
+D0733  ,Light Precipitation
+D0734  ,Light Precipitation
+D0735  ,Thunderstorms
+D0736  ,Partly Cloudy
+D0737  ,Light Precipitation
+D0738  ,Partly Cloudy
+D0739  ,Rain Showers
+D0740  ,Partly Cloudy
+D0741  ,Cloudy and Overcast
+D0742  ,Partly Cloudy
+D0743  ,Partly Cloudy
+D0744  ,Partly Cloudy
+D0745  ,Cloudy and Overcast
+D0746  ,Light Rain with Thunder
+D0747  ,Partly Cloudy
+D0748  ,Partly Cloudy
+D0749  ,Light Precipitation
+D0750  ,Partly Cloudy
+D0751  ,Light Precipitation
+D0752  ,Light Precipitation
+D0753  ,Cloudy and Overcast
+D0754  ,Light Precipitation
+D0755  ,Mist or Fog
+D0756  ,Rain Showers
+D0757  ,Light Precipitation
+D0758  ,Cloudy and Overcast
+D0759  ,Light Precipitation
+D0760  ,Partly Cloudy
+D0761  ,Rain Showers
+D0762  ,Partly Cloudy
+D0763  ,Cloudy and Overcast
+D0764  ,Light Precipitation
+D0765  ,Mist or Fog
+D0766  ,Mist or Fog
+D0767  ,Cloudy and Overcast
+D0768  ,Partly Cloudy
+D0769  ,Light Precipitation
+D0770  ,Cloudy and Overcast
+D0771  ,Cloudy and Overcast
+D0772  ,Light Precipitation
+D0773  ,Cloudy and Overcast
+D0774  ,Cloudy and Overcast
+D0775  ,Mist or Fog
+D0776  ,Light Precipitation
+D0777  ,Cloudy and Overcast
+D0778  ,Cloudy and Overcast
+D0779  ,Light Rain with Thunder
+D0780  ,Mist or Fog
+D0781  ,Cloudy and Overcast
+D0782  ,Light Precipitation
+D0783  ,Mist or Fog
+D0784  ,Mist or Fog
+D0785  ,Partly Cloudy
+D0786  ,Partly Cloudy
+D0787  ,Clear and Sunny
+D0788  ,Cloudy and Overcast
+D0789  ,Partly Cloudy
+D0790  ,Light Precipitation
+D0791  ,Clear and Sunny
+D0792  ,Mist or Fog
+D0793  ,Light Precipitation
+D0794  ,Cloudy and Overcast
+D0795  ,Partly Cloudy
+D0796  ,Partly Cloudy
+D0797  ,Clear and Sunny
+D0798  ,Clear and Sunny
+D0799  ,Clear and Sunny
+D0800  ,Clear and Sunny
+D0801  ,Partly Cloudy
+D0802  ,Clear and Sunny
+D0803  ,Partly Cloudy
+D0804  ,Partly Cloudy
+D0805  ,Clear and Sunny
+D0806  ,Clear and Sunny
+D0807  ,Cloudy and Overcast
+D0808  ,Mist or Fog
+D0809  ,Moderate to Heavy Rain
+D0810  ,Cloudy and Overcast
+D0811  ,Mist or Fog
+D0812  ,Clear and Sunny
+D0813  ,Partly Cloudy
+D0814  ,Partly Cloudy
+D0815  ,Partly Cloudy
+D0816  ,Rain Showers
+D0817  ,Cloudy and Overcast
+D0818  ,Cloudy and Overcast
+D0819  ,Clear and Sunny
+D0820  ,Light Precipitation
+D0821  ,Clear and Sunny
+D0822  ,Light Precipitation
+D0823  ,Light Rain with Thunder
+D0824  ,Cloudy and Overcast
+D0825  ,Partly Cloudy
+D0826  ,Cloudy and Overcast
+D0827  ,Light Precipitation
+D0828  ,Thunderstorms
+D0829  ,Rain Showers
+D0830  ,Cloudy and Overcast
+D0831  ,Cloudy and Overcast
+D0832  ,Cloudy and Overcast
+D0833  ,Light Precipitation
+D0834  ,Light Precipitation
+D0835  ,Cloudy and Overcast
+D0836  ,Cloudy and Overcast
+D0837  ,Partly Cloudy
+D0838  ,Partly Cloudy
+D0839  ,Partly Cloudy
+D0840  ,Cloudy and Overcast
+D0841  ,Clear and Sunny
+D0842  ,Light Precipitation
+D0843  ,Clear and Sunny
+D0844  ,Mist or Fog
+D0845  ,Mist or Fog
+D0846  ,Mist or Fog
+D0847  ,Mist or Fog
+D0848  ,Rain Showers
+D0849  ,Clear and Sunny
+D0850  ,Partly Cloudy
+D0851  ,Light Precipitation
+D0852  ,Light Precipitation
+D0853  ,Clear and Sunny
+D0854  ,Light Precipitation
+D0855  ,Partly Cloudy
+D0856  ,Partly Cloudy
+D0857  ,Clear and Sunny
+D0858  ,Partly Cloudy
+D0859  ,Partly Cloudy
+D0860  ,Mist or Fog
+D0861  ,Cloudy and Overcast
+D0862  ,Partly Cloudy
+D0863  ,Mist or Fog
+D0864  ,Clear and Sunny
+D0865  ,Cloudy and Overcast
+D0866  ,Clear and Sunny
+D0867  ,Clear and Sunny
+D0868  ,Clear and Sunny
+D0869  ,Clear and Sunny
+D0870  ,Clear and Sunny
+D0871  ,Clear and Sunny
+D0872  ,Clear and Sunny
+D0873  ,Light Precipitation
+D0874  ,Mist or Fog
+D0875  ,Cloudy and Overcast
+D0876  ,Clear and Sunny
+D0877  ,Clear and Sunny
+D0878  ,Clear and Sunny
+D0879  ,Mist or Fog
+D0880  ,Mist or Fog
+D0881  ,Partly Cloudy
+D0882  ,Clear and Sunny
+D0883  ,Cloudy and Overcast
+D0884  ,Partly Cloudy
+D0885  ,Mist or Fog
+D0886  ,Partly Cloudy
+D0887  ,Partly Cloudy
+D0888  ,Partly Cloudy
+D0889  ,Light Precipitation
+D0890  ,Partly Cloudy
+D0891  ,Partly Cloudy
+D0892  ,Partly Cloudy
+D0893  ,Partly Cloudy
+D0894  ,Partly Cloudy
+D0895  ,Light Precipitation
+D0896  ,Light Precipitation
+D0897  ,Light Precipitation
+D0898  ,Light Precipitation
+D0899  ,Light Precipitation
+D0900  ,Partly Cloudy
+D0901  ,Partly Cloudy
+D0902  ,Light Precipitation
+D0903  ,Partly Cloudy
+D0904  ,Light Precipitation
+D0905  ,Cloudy and Overcast
+D0906  ,Partly Cloudy
+D0907  ,Partly Cloudy
+D0908  ,Partly Cloudy
+D0909  ,Light Precipitation
+D0910  ,Partly Cloudy
+D0911  ,Clear and Sunny
+D0912  ,Clear and Sunny
+D0913  ,Cloudy and Overcast
+D0914  ,Mist or Fog
+D0915  ,Clear and Sunny
+D0916  ,Thunderstorms
+D0917  ,Cloudy and Overcast
+D0918  ,Partly Cloudy
+D0919  ,Clear and Sunny
+D0920  ,Clear and Sunny
+D0921  ,Partly Cloudy
+D0922  ,Cloudy and Overcast
+D0923  ,Clear and Sunny
+D0924  ,Clear and Sunny
+D0925  ,Rain Showers
+D0926  ,Light Precipitation
+D0927  ,Clear and Sunny
+D0928  ,Clear and Sunny
+D0929  ,Partly Cloudy
+D0930  ,Clear and Sunny
+D0931  ,Clear and Sunny
+D0932  ,Light Precipitation
+D0933  ,Partly Cloudy
+D0934  ,Rain Showers
+D0935  ,Cloudy and Overcast
+D0936  ,Light Precipitation
+D0937  ,Light Precipitation
+D0938  ,Partly Cloudy
+D0939  ,Light Precipitation
+D0940  ,Clear and Sunny
+D0941  ,Partly Cloudy
+D0942  ,Clear and Sunny
+D0943  ,Clear and Sunny
+D0944  ,Clear and Sunny
+D0945  ,Partly Cloudy
+D0946  ,Clear and Sunny
+D0947  ,Clear and Sunny
+D0948  ,Clear and Sunny
+D0949  ,Clear and Sunny
+D0950  ,Partly Cloudy
+D0951  ,Clear and Sunny
+D0952  ,Clear and Sunny
+D0953  ,Clear and Sunny
+D0954  ,Clear and Sunny
+D0955  ,Clear and Sunny
+D0956  ,Clear and Sunny
+D0957  ,Clear and Sunny
+D0958  ,Clear and Sunny
+D0959  ,Partly Cloudy
+D0960  ,Clear and Sunny
+D0961  ,Clear and Sunny
+D0962  ,Clear and Sunny
+D0963  ,Light Precipitation
+D0964  ,Cloudy and Overcast
+D0965  ,Light Precipitation
+D0966  ,Light Precipitation
+D0967  ,Light Precipitation
+D0968  ,Cloudy and Overcast
+D0969  ,Partly Cloudy
+D0970  ,Cloudy and Overcast
+D0971  ,Cloudy and Overcast
+D0972  ,Light Precipitation
+D0973  ,Partly Cloudy
+D0974  ,Cloudy and Overcast
+D0975  ,Cloudy and Overcast
+D0976  ,Partly Cloudy
+D0977  ,Cloudy and Overcast
+D0978  ,Mist or Fog
+D0979  ,Light Precipitation
+D0980  ,Light Precipitation
+D0981  ,Mist or Fog
+D0982  ,Light Precipitation
+D0983  ,Light Precipitation
+D0984  ,Partly Cloudy
+D0985  ,Mist or Fog
+D0986  ,Light Precipitation
+D0987  ,Cloudy and Overcast
+D0988  ,Light Precipitation
+D0989  ,Clear and Sunny
+D0990  ,Clear and Sunny
+D0991  ,Clear and Sunny
+D0992  ,Clear and Sunny
+D0993  ,Clear and Sunny
+D0994  ,Clear and Sunny
+D0995  ,Clear and Sunny
+D0996  ,Partly Cloudy
+D0997  ,Cloudy and Overcast
+D0998  ,Mist or Fog
+D0999  ,Cloudy and Overcast
+D1000  ,Cloudy and Overcast
+D1001  ,Clear and Sunny
+D1002  ,Clear and Sunny
+D1003  ,Clear and Sunny
+D1004  ,Clear and Sunny
+D1005  ,Clear and Sunny
+D1006  ,Clear and Sunny
+D1007  ,Clear and Sunny
+D1008  ,Clear and Sunny
+D1009  ,Clear and Sunny
+D1010  ,Light Precipitation
+D1011  ,Clear and Sunny
+D1012  ,Clear and Sunny
+D1013  ,Clear and Sunny
+D1014  ,Clear and Sunny
+D1015  ,Light Precipitation
+D1016  ,Rain Showers
+D1017  ,Mist or Fog
+D1018  ,Mist or Fog
+D1019  ,Light Rain with Thunder
+D1020  ,Partly Cloudy
+D1021  ,Mist or Fog
+D1022  ,Light Precipitation
+D1023  ,Rain Showers
+D1024  ,Rain Showers
+D1025  ,Cloudy and Overcast
+D1026  ,Mist or Fog
+D1027  ,Light Precipitation
+D1028  ,Partly Cloudy
+D1029  ,Mist or Fog
+D1030  ,Cloudy and Overcast
+D1031  ,Cloudy and Overcast
+D1032  ,Cloudy and Overcast
+D1033  ,Rain Showers
+D1034  ,Cloudy and Overcast
+D1035  ,Partly Cloudy
+D1036  ,Mist or Fog
+D1037  ,Cloudy and Overcast
+D1038  ,Rain Showers
+D1039  ,Light Precipitation
+D1040  ,Mist or Fog
+D1041  ,Mist or Fog
+D1042  ,Mist or Fog
+D1043  ,Light Precipitation
+D1044  ,Cloudy and Overcast
+D1045  ,Cloudy and Overcast
+D1046  ,Light Precipitation
+D1047  ,Clear and Sunny
+D1048  ,Clear and Sunny
+D1049  ,Light Precipitation
+D1050  ,Cloudy and Overcast
+D1051  ,Partly Cloudy
+D1052  ,Partly Cloudy
+D1053  ,Clear and Sunny
+D1054  ,Clear and Sunny
+D1055  ,Clear and Sunny
+D1056  ,Partly Cloudy
+D1057  ,Light Precipitation
+D1058  ,Partly Cloudy
+D1059  ,Rain Showers
+D1060  ,Partly Cloudy
+D1061  ,Partly Cloudy
+D1062  ,Partly Cloudy
+D1063  ,Clear and Sunny
+D1064  ,Cloudy and Overcast
+D1065  ,Cloudy and Overcast
+D1066  ,Partly Cloudy
+D1067  ,Mist or Fog
+D1068  ,Light Precipitation
+D1069  ,Light Precipitation
+D1070  ,Light Precipitation
+D1071  ,Mist or Fog
+D1072  ,Partly Cloudy
+D1073  ,Cloudy and Overcast
+D1074  ,Partly Cloudy
+D1075  ,Partly Cloudy
+D1076  ,Partly Cloudy
+D1077  ,Light Precipitation
+D1078  ,Cloudy and Overcast
+D1079  ,Partly Cloudy
+D1080  ,Light Precipitation
+D1081  ,Partly Cloudy
+D1082  ,Partly Cloudy
+D1083  ,Light Precipitation
+D1084  ,Partly Cloudy
+D1085  ,Light Precipitation
+D1086  ,Partly Cloudy
+D1087  ,Partly Cloudy
+D1088  ,Partly Cloudy
+D1089  ,Partly Cloudy
+D1090  ,Cloudy and Overcast
+D1091  ,Rain Showers
+D1092  ,Partly Cloudy
+D1093  ,Rain Showers
+D1094  ,Partly Cloudy
+D1095  ,Clear and Sunny
+D1096  ,Cloudy and Overcast
+D1097  ,Partly Cloudy
+D1098  ,Cloudy and Overcast
+D1099  ,Clear and Sunny
+D1100  ,Partly Cloudy
+D1101  ,Cloudy and Overcast
+D1102  ,Clear and Sunny
+D1103  ,Clear and Sunny
+D1104  ,Clear and Sunny
+D1105  ,Clear and Sunny
+D1106  ,Clear and Sunny
+D1107  ,Clear and Sunny
+D1108  ,Clear and Sunny
+D1109  ,Rain Showers
+D1110  ,Clear and Sunny
+D1111  ,Clear and Sunny
+D1112  ,Clear and Sunny
+D1113  ,Clear and Sunny
+D1114  ,Partly Cloudy
+D1115  ,Light Precipitation
+D1116  ,Clear and Sunny
+D1117  ,Clear and Sunny
+D1118  ,Light Precipitation
+D1119  ,Mist or Fog
+D1120  ,Mist or Fog
+D1121  ,Mist or Fog
+D1122  ,Mist or Fog
+D1123  ,Partly Cloudy
+D1124  ,Mist or Fog
+D1125  ,Mist or Fog
+D1126  ,Clear and Sunny
+D1127  ,Mist or Fog
+D1128  ,Mist or Fog
+D1129  ,Mist or Fog
+D1130  ,Mist or Fog
+D1131  ,Thunderstorms
+D1132  ,Mist or Fog
+D1133  ,Rain Showers
+D1134  ,Rain Showers
+D1135  ,Rain Showers
+D1136  ,Mist or Fog
+D1137  ,Mist or Fog
+D1138  ,Mist or Fog
+D1139  ,Light Precipitation
+D1140  ,Rain Showers
+D1141  ,Partly Cloudy
+D1142  ,Light Precipitation
+D1143  ,Mist or Fog
+D1144  ,Cloudy and Overcast
+D1145  ,Partly Cloudy
+D1146  ,Light Precipitation
+D1147  ,Cloudy and Overcast
+D1148  ,Mist or Fog
+D1149  ,Cloudy and Overcast
+D1150  ,Mist or Fog
+D1151  ,Partly Cloudy
+D1152  ,Mist or Fog
+D1153  ,Mist or Fog
+D1154  ,Light Precipitation
+D1155  ,Mist or Fog
+D1156  ,Mist or Fog
+D1157  ,Mist or Fog
+D1158  ,Mist or Fog
+D1159  ,Cloudy and Overcast
+D1160  ,Cloudy and Overcast
+D1161  ,Clear and Sunny
+D1162  ,Light Precipitation
+D1163  ,Mist or Fog
+D1164  ,Mist or Fog
+D1165  ,Light Precipitation
+D1166  ,Cloudy and Overcast
+D1167  ,Light Precipitation
+D1168  ,Cloudy and Overcast
+D1169  ,Mist or Fog
+D1170  ,Partly Cloudy
+D1171  ,Clear and Sunny
+D1172  ,Light Precipitation
+D1173  ,Light Precipitation
+D1174  ,Clear and Sunny
+D1175  ,Clear and Sunny
+D1176  ,Partly Cloudy
+D1177  ,Partly Cloudy
+D1178  ,Partly Cloudy
+D1179  ,Clear and Sunny
+D1180  ,Clear and Sunny
+D1181  ,Cloudy and Overcast
+D1182  ,Clear and Sunny
+D1183  ,Clear and Sunny
+D1184  ,Clear and Sunny
+D1185  ,Clear and Sunny
+D1186  ,Clear and Sunny
+D1187  ,Partly Cloudy
+D1188  ,Partly Cloudy
+D1189  ,Clear and Sunny
+D1190  ,Clear and Sunny
+D1191  ,Clear and Sunny
+D1192  ,Clear and Sunny
+D1193  ,Clear and Sunny
+D1194  ,Clear and Sunny
+D1195  ,Clear and Sunny
+D1196  ,Clear and Sunny
+D1197  ,Mist or Fog
+D1198  ,Mist or Fog
+D1199  ,Light Precipitation
+D1200  ,Light Precipitation
+D1201  ,Light Precipitation
+D1202  ,Partly Cloudy
+D1203  ,Partly Cloudy
+D1204  ,Partly Cloudy
+D1205  ,Light Precipitation
+D1206  ,Cloudy and Overcast
+D1207  ,Mist or Fog
+D1208  ,Cloudy and Overcast
+D1209  ,Partly Cloudy
+D1210  ,Cloudy and Overcast
+D1211  ,Light Precipitation
+D1212  ,Clear and Sunny
+D1213  ,Light Precipitation
+D1214  ,Light Rain with Thunder
+D1215  ,Light Precipitation
+D1216  ,Light Precipitation
+D1217  ,Light Precipitation
+D1218  ,Light Precipitation
+D1219  ,Partly Cloudy
+D1220  ,Cloudy and Overcast
+D1221  ,Mist or Fog
+D1222  ,Cloudy and Overcast
+D1223  ,Moderate to Heavy Rain
+D1224  ,Cloudy and Overcast
+D1225  ,Partly Cloudy
+D1226  ,Clear and Sunny
+D1227  ,Cloudy and Overcast
+D1228  ,Partly Cloudy
+D1229  ,Clear and Sunny
+D1230  ,Clear and Sunny
+D1231  ,Clear and Sunny
+D1232  ,Clear and Sunny
+D1233  ,Clear and Sunny
+D1234  ,Clear and Sunny
+D1235  ,Clear and Sunny
+D1236  ,Clear and Sunny
+D1237  ,Clear and Sunny
+D1238  ,Clear and Sunny
+D1239  ,Cloudy and Overcast
+D1240  ,Clear and Sunny
+D1241  ,Clear and Sunny
+D1242  ,Clear and Sunny
+D1243  ,Clear and Sunny
+D1244  ,Clear and Sunny
+D1245  ,Clear and Sunny
+D1246  ,Clear and Sunny
+D1247  ,Clear and Sunny
+D1248  ,Mist or Fog
+D1249  ,Light Precipitation
+D1250  ,Partly Cloudy
+D1251  ,Light Precipitation
+D1252  ,Light Precipitation
+D1253  ,Light Precipitation
+D1254  ,Mist or Fog
+D1255  ,Light Precipitation
+D1256  ,Light Precipitation
+D1257  ,Light Precipitation
+D1258  ,Mist or Fog
+D1259  ,Mist or Fog
+D1260  ,Rain Showers
+D1261  ,Mist or Fog
+D1262  ,Cloudy and Overcast
+D1263  ,Mist or Fog
+D1264  ,Light Precipitation
+D1265  ,Cloudy and Overcast
+D1266  ,Rain Showers
+D1267  ,Partly Cloudy
+D1268  ,Light Precipitation
+D1269  ,Cloudy and Overcast
+D1270  ,Light Precipitation
+D1271  ,Rain Showers
+D1272  ,Cloudy and Overcast
+D1273  ,Cloudy and Overcast
+D1274  ,Rain Showers
+D1275  ,Partly Cloudy
+D1276  ,Partly Cloudy
+D1277  ,Partly Cloudy
+D1278  ,Partly Cloudy
+D1279  ,Mist or Fog
+D1280  ,Light Precipitation
+D1281  ,Partly Cloudy
+D1282  ,Partly Cloudy
+D1283  ,Mist or Fog
+D1284  ,Light Precipitation
+D1285  ,Light Precipitation
+D1286  ,Light Precipitation
+D1287  ,Partly Cloudy
+D1288  ,Partly Cloudy
+D1289  ,Partly Cloudy
+D1290  ,Mist or Fog
+D1291  ,Light Precipitation
+D1292  ,Partly Cloudy
+D1293  ,Partly Cloudy
+D1294  ,Partly Cloudy
+D1295  ,Light Precipitation
+D1296  ,Cloudy and Overcast
+D1297  ,Light Precipitation
+D1298  ,Partly Cloudy
+D1299  ,Partly Cloudy
+D1300  ,Partly Cloudy
+D1301  ,Cloudy and Overcast
+D1302  ,Light Precipitation
+D1303  ,Light Precipitation
+D1304  ,Light Precipitation
+D1305  ,Light Precipitation
+D1306  ,Light Precipitation
+D1307  ,Rain Showers
+D1308  ,Light Precipitation
+D1309  ,Partly Cloudy
+D1310  ,Rain Showers
+D1311  ,Light Precipitation
+D1312  ,Light Precipitation
+D1313  ,Light Precipitation
+D1314  ,Light Precipitation
+D1315  ,Partly Cloudy
+D1316  ,Light Precipitation
+D1317  ,Clear and Sunny
+D1318  ,Partly Cloudy
+D1319  ,Light Precipitation
+D1320  ,Light Precipitation
+D1321  ,Light Precipitation
+D1322  ,Light Precipitation
+D1323  ,Partly Cloudy
+D1324  ,Light Precipitation
+D1325  ,Light Precipitation
+D1326  ,Light Precipitation
+D1327  ,Light Precipitation
+D1328  ,Partly Cloudy
+D1329  ,Cloudy and Overcast
+D1330  ,Mist or Fog
+D1331  ,Mist or Fog
+D1332  ,Clear and Sunny
+D1333  ,Clear and Sunny
+D1334  ,Clear and Sunny
+D1335  ,Clear and Sunny
+D1336  ,Cloudy and Overcast
+D1337  ,Cloudy and Overcast
+D1338  ,Mist or Fog
+D1339  ,Mist or Fog
+D1340  ,Partly Cloudy
+D1341  ,Clear and Sunny
+D1342  ,Mist or Fog
+D1343  ,Clear and Sunny
+D1344  ,Light Precipitation
+D1345  ,Mist or Fog
+D1346  ,Clear and Sunny
+D1347  ,Clear and Sunny
+D1348  ,Clear and Sunny
+D1349  ,Clear and Sunny
+D1350  ,Cloudy and Overcast
+D1351  ,Clear and Sunny
+D1352  ,Clear and Sunny
+D1353  ,Light Precipitation
+D1354  ,Cloudy and Overcast
+D1355  ,Partly Cloudy
+D1356  ,Cloudy and Overcast
+D1357  ,Clear and Sunny
+D1358  ,Partly Cloudy
+D1359  ,Cloudy and Overcast
+D1360  ,Partly Cloudy
+D1361  ,Partly Cloudy
+D1362  ,Cloudy and Overcast
+D1363  ,Partly Cloudy
+D1364  ,Cloudy and Overcast
+D1365  ,Partly Cloudy
+D1366  ,Clear and Sunny
+D1367  ,Clear and Sunny
+D1368  ,Cloudy and Overcast
+D1369  ,Partly Cloudy
+D1370  ,Partly Cloudy
+D1371  ,Clear and Sunny
+D1372  ,Clear and Sunny
+D1373  ,Clear and Sunny
+D1374  ,Cloudy and Overcast
+D1375  ,Light Precipitation
+D1376  ,Partly Cloudy
+D1377  ,Cloudy and Overcast
+D1378  ,Light Precipitation
+D1379  ,Light Precipitation
+D1380  ,Partly Cloudy
+D1381  ,Cloudy and Overcast
+D1382  ,Light Precipitation
+D1383  ,Clear and Sunny
+D1384  ,Light Precipitation
+D1385  ,Mist or Fog
+D1386  ,Light Precipitation
+D1387  ,Light Rain with Thunder
+D1388  ,Clear and Sunny
+D1389  ,Partly Cloudy
+D1390  ,Cloudy and Overcast
+D1391  ,Partly Cloudy
+D1392  ,Clear and Sunny
+D1393  ,Partly Cloudy
+D1394  ,Clear and Sunny
+D1395  ,Partly Cloudy
+D1396  ,Clear and Sunny
+D1397  ,Clear and Sunny
+D1398  ,Clear and Sunny
+D1399  ,Partly Cloudy
+D1400  ,Clear and Sunny
+D1401  ,Light Precipitation
+D1402  ,Clear and Sunny
+D1403  ,Clear and Sunny
+D1404  ,Partly Cloudy
+D1405  ,Light Precipitation
+D1406  ,Light Precipitation
+D1407  ,Clear and Sunny
+D1408  ,Light Precipitation
+D1409  ,Clear and Sunny
+D1410  ,Partly Cloudy
+D1411  ,Clear and Sunny
+D1412  ,Clear and Sunny
+D1413  ,Clear and Sunny
+D1414  ,Clear and Sunny
+D1415  ,Clear and Sunny
+D1416  ,Clear and Sunny
+D1417  ,Clear and Sunny
+D1418  ,Clear and Sunny
+D1419  ,Clear and Sunny
+D1420  ,Mist or Fog
+D1421  ,Partly Cloudy
+D1422  ,Clear and Sunny
+D1423  ,Clear and Sunny
+D1424  ,Rain Showers
+D1425  ,Clear and Sunny
+D1426  ,Light Precipitation
+D1427  ,Light Precipitation
+D1428  ,Clear and Sunny
+D1429  ,Cloudy and Overcast
+D1430  ,Light Precipitation
+D1431  ,Partly Cloudy
+D1432  ,Partly Cloudy
+D1433  ,Partly Cloudy
+D1434  ,Light Precipitation
+D1435  ,Mist or Fog
+D1436  ,Light Precipitation
+D1437  ,Partly Cloudy
+D1438  ,Partly Cloudy
+D1439  ,Cloudy and Overcast
+D1440  ,Cloudy and Overcast
+D1441  ,Mist or Fog
+D1442  ,Cloudy and Overcast
+D1443  ,Partly Cloudy
+D1444  ,Cloudy and Overcast
+D1445  ,Mist or Fog
+D1446  ,Mist or Fog
+D1447  ,Partly Cloudy
+D1448  ,Partly Cloudy
+D1449  ,Partly Cloudy
+D1450  ,Partly Cloudy
+D1451  ,Light Precipitation
+D1452  ,Mist or Fog
+D1453  ,Cloudy and Overcast
+D1454  ,Cloudy and Overcast
+D1455  ,Mist or Fog
+D1456  ,Light Precipitation
+D1457  ,Rain Showers
+D1458  ,Light Precipitation
+D1459  ,Rain Showers
+D1460  ,Cloudy and Overcast
+D1461  ,Rain Showers
+D1462  ,Light Precipitation
+D1463  ,Light Precipitation
+D1464  ,Partly Cloudy
+D1465  ,Thunderstorms
+D1466  ,Thunderstorms
+D1467  ,Mist or Fog
+D1468  ,Light Precipitation
+D1469  ,Cloudy and Overcast
+D1470  ,Mist or Fog
+D1471  ,Light Precipitation
+D1472  ,Clear and Sunny
+D1473  ,Partly Cloudy
+D1474  ,Cloudy and Overcast
+D1475  ,Thunderstorms
+D1476  ,Light Precipitation
+D1477  ,Rain Showers
+D1478  ,Cloudy and Overcast
+D1479  ,Mist or Fog
+D1480  ,Light Precipitation
+D1481  ,Cloudy and Overcast
+D1482  ,Partly Cloudy
+D1483  ,Clear and Sunny
+D1484  ,Clear and Sunny
+D1485  ,Clear and Sunny
+D1486  ,Clear and Sunny
+D1487  ,Clear and Sunny
+D1488  ,Clear and Sunny
+D1489  ,Mist or Fog
+D1490  ,Clear and Sunny
+D1491  ,Moderate to Heavy Rain
+D1492  ,Cloudy and Overcast
+D1493  ,Cloudy and Overcast
+D1494  ,Cloudy and Overcast
+D1495  ,Clear and Sunny
+D1496  ,Light Precipitation
+D1497  ,Clear and Sunny
+D1498  ,Partly Cloudy
+D1499  ,Partly Cloudy
+D1500  ,Mist or Fog
+D1501  ,Light Precipitation
+D1502  ,Clear and Sunny
+D1503  ,Cloudy and Overcast
+D1504  ,Partly Cloudy
+D1505  ,Partly Cloudy
+D1506  ,Clear and Sunny
+D1507  ,Clear and Sunny
+D1508  ,Partly Cloudy
+D1509  ,Cloudy and Overcast
+D1510  ,Cloudy and Overcast
+D1511  ,Cloudy and Overcast
+D1512  ,Light Precipitation
+D1513  ,Cloudy and Overcast
+D1514  ,Rain Showers
+D1515  ,Cloudy and Overcast
+D1516  ,Partly Cloudy
+D1517  ,Light Precipitation
+D1518  ,Light Precipitation
+D1519  ,Light Precipitation
+D1520  ,Cloudy and Overcast
+D1521  ,Partly Cloudy
+D1522  ,Cloudy and Overcast
+D1523  ,Light Precipitation
+D1524  ,Light Precipitation
+D1525  ,Cloudy and Overcast
+D1526  ,Light Precipitation
+D1527  ,Light Precipitation
+D1528  ,Cloudy and Overcast
+D1529  ,Cloudy and Overcast
+D1530  ,Cloudy and Overcast
+D1531  ,Cloudy and Overcast
+D1532  ,Light Precipitation
+D1533  ,Light Precipitation
+D1534  ,Cloudy and Overcast
+D1535  ,Partly Cloudy
+D1536  ,Light Precipitation
+D1537  ,Partly Cloudy
+D1538  ,Light Precipitation
+D1539  ,Light Precipitation
+D1540  ,Mist or Fog
+D1541  ,Light Precipitation
+D1542  ,Light Precipitation
+D1543  ,Light Precipitation
+D1544  ,Mist or Fog
+D1545  ,Cloudy and Overcast
+D1546  ,Partly Cloudy
+D1547  ,Partly Cloudy
+D1548  ,Cloudy and Overcast
+D1549  ,Cloudy and Overcast
+D1550  ,Partly Cloudy
+D1551  ,Light Precipitation
+D1552  ,Partly Cloudy
+D1553  ,Cloudy and Overcast
+D1554  ,Light Precipitation
+D1555  ,Light Precipitation
+D1556  ,Partly Cloudy
+D1557  ,Cloudy and Overcast
+D1558  ,Light Precipitation
+D1559  ,Cloudy and Overcast
+D1560  ,Partly Cloudy
+D1561  ,Partly Cloudy
+D1562  ,Partly Cloudy
+D1563  ,Clear and Sunny
+D1564  ,Clear and Sunny
+D1565  ,Mist or Fog
+D1566  ,Clear and Sunny
+D1567  ,Clear and Sunny
+D1568  ,Clear and Sunny
+D1569  ,Clear and Sunny
+D1570  ,Clear and Sunny
+D1571  ,Clear and Sunny
+D1572  ,Clear and Sunny
+D1573  ,Clear and Sunny
+D1574  ,Clear and Sunny
+D1575  ,Clear and Sunny
+D1576  ,Partly Cloudy
+D1577  ,Partly Cloudy
+D1578  ,Partly Cloudy
+D1579  ,Clear and Sunny
+D1580  ,Mist or Fog
+D1581  ,Clear and Sunny
+D1582  ,Light Precipitation
+D1583  ,Cloudy and Overcast
+D1584  ,Rain Showers
+D1585  ,Rain Showers
+D1586  ,Clear and Sunny
+D1587  ,Partly Cloudy
+D1588  ,Clear and Sunny
+D1589  ,Partly Cloudy
+D1590  ,Partly Cloudy
+D1591  ,Light Precipitation
+D1592  ,Partly Cloudy
+D1593  ,Cloudy and Overcast
+D1594  ,Light Precipitation
+D1595  ,Clear and Sunny
+D1596  ,Moderate to Heavy Rain
+D1597  ,Clear and Sunny
+D1598  ,Clear and Sunny
+D1599  ,Partly Cloudy
+D1600  ,Clear and Sunny
+D1601  ,Partly Cloudy
+D1602  ,Cloudy and Overcast
+D1603  ,Light Precipitation
+D1604  ,Cloudy and Overcast
+D1605  ,Cloudy and Overcast
+D1606  ,Mist or Fog
+D1607  ,Partly Cloudy
+D1608  ,Clear and Sunny
+D1609  ,Cloudy and Overcast
+D1610  ,Partly Cloudy
+D1611  ,Clear and Sunny
+D1612  ,Partly Cloudy
+D1613  ,Partly Cloudy
+D1614  ,Mist or Fog
+D1615  ,Cloudy and Overcast
+D1616  ,Partly Cloudy
+D1617  ,Clear and Sunny
+D1618  ,Partly Cloudy
+D1619  ,Clear and Sunny
+D1620  ,Clear and Sunny
+D1621  ,Clear and Sunny
+D1622  ,Clear and Sunny
+D1623  ,Clear and Sunny
+D1624  ,Clear and Sunny
+D1625  ,Clear and Sunny
+D1626  ,Clear and Sunny
+D1627  ,Clear and Sunny
+D1628  ,Clear and Sunny
+D1629  ,Mist or Fog
+D1630  ,Clear and Sunny
+D1631  ,Mist or Fog
+D1632  ,Rain Showers
+D1633  ,Light Precipitation
+D1634  ,Clear and Sunny
+D1635  ,Clear and Sunny
+D1636  ,Clear and Sunny
+D1637  ,Light Precipitation
+D1638  ,Clear and Sunny
+D1639  ,Mist or Fog
+D1640  ,Mist or Fog
+D1641  ,Cloudy and Overcast
+D1642  ,Clear and Sunny
+D1643  ,Cloudy and Overcast
+D1644  ,Mist or Fog
+D1645  ,Partly Cloudy
+D1646  ,Light Precipitation
+D1647  ,Cloudy and Overcast
+D1648  ,Cloudy and Overcast
+D1649  ,Light Precipitation
+D1650  ,Cloudy and Overcast
+D1651  ,Light Precipitation
+D1652  ,Light Precipitation
+D1653  ,Mist or Fog
+D1654  ,Clear and Sunny
+D1655  ,Cloudy and Overcast
+D1656  ,Mist or Fog
+D1657  ,Mist or Fog
+D1658  ,Mist or Fog
+D1659  ,Light Precipitation
+D1660  ,Partly Cloudy
+D1661  ,Partly Cloudy
+D1662  ,Partly Cloudy
+D1663  ,Partly Cloudy
+D1664  ,Partly Cloudy
+D1665  ,Partly Cloudy
+D1666  ,Partly Cloudy
+D1667  ,Light Precipitation
+D1668  ,Clear and Sunny
+D1669  ,Rain Showers
+D1670  ,Cloudy and Overcast
+D1671  ,Clear and Sunny
+D1672  ,Partly Cloudy
+D1673  ,Partly Cloudy
+D1674  ,Cloudy and Overcast
+D1675  ,Clear and Sunny
+D1676  ,Partly Cloudy
+D1677  ,Clear and Sunny
+D1678  ,Clear and Sunny
+D1679  ,Light Precipitation
+D1680  ,Cloudy and Overcast
+D1681  ,Partly Cloudy
+D1682  ,Partly Cloudy
+D1683  ,Clear and Sunny
+D1684  ,Cloudy and Overcast
+D1685  ,Partly Cloudy
+D1686  ,Partly Cloudy
+D1687  ,Cloudy and Overcast
+D1688  ,Light Precipitation
+D1689  ,Light Precipitation
+D1690  ,Light Precipitation
+D1691  ,Clear and Sunny
+D1692  ,Clear and Sunny
+D1693  ,Clear and Sunny
+D1694  ,Clear and Sunny
+D1695  ,Clear and Sunny
+D1696  ,Clear and Sunny
+D1697  ,Clear and Sunny
+D1698  ,Clear and Sunny
+D1699  ,Clear and Sunny
+D1700  ,Clear and Sunny
+D1701  ,Clear and Sunny
+D1702  ,Clear and Sunny
+D1703  ,Clear and Sunny
+D1704  ,Clear and Sunny
+D1705  ,Clear and Sunny
+D1706  ,Clear and Sunny
+D1707  ,Clear and Sunny
+D1708  ,Clear and Sunny
+D1709  ,Clear and Sunny
+D1710  ,Clear and Sunny
+D1711  ,Clear and Sunny
+D1712  ,Clear and Sunny
+D1713  ,Clear and Sunny
+D1714  ,Clear and Sunny
+D1715  ,Clear and Sunny
+D1716  ,Clear and Sunny
+D1717  ,Light Precipitation
+D1718  ,Mist or Fog
+D1719  ,Cloudy and Overcast
+D1720  ,Cloudy and Overcast
+D1721  ,Partly Cloudy
+D1722  ,Cloudy and Overcast
+D1723  ,Mist or Fog
+D1724  ,Mist or Fog
+D1725  ,Partly Cloudy
+D1726  ,Thunderstorms
+D1727  ,Cloudy and Overcast
+D1728  ,Cloudy and Overcast
+D1729  ,Mist or Fog
+D1730  ,Cloudy and Overcast
+D1731  ,Mist or Fog
+D1732  ,Cloudy and Overcast
+D1733  ,Partly Cloudy
+D1734  ,Mist or Fog
+D1735  ,Light Rain with Thunder
+D1736  ,Light Precipitation
+D1737  ,Cloudy and Overcast
+D1738  ,Partly Cloudy
+D1739  ,Partly Cloudy
+D1740  ,Cloudy and Overcast
+D1741  ,Light Precipitation
+D1742  ,Cloudy and Overcast
+D1743  ,Clear and Sunny
+D1744  ,Partly Cloudy
+D1745  ,Partly Cloudy
+D1746  ,Clear and Sunny
+D1747  ,Clear and Sunny
+D1748  ,Light Precipitation
+D1749  ,Partly Cloudy
+D1750  ,Light Precipitation
+D1751  ,Cloudy and Overcast
+D1752  ,Clear and Sunny
+D1753  ,Clear and Sunny
+D1754  ,Clear and Sunny
+D1755  ,Cloudy and Overcast
+D1756  ,Partly Cloudy
+D1757  ,Clear and Sunny
+D1758  ,Clear and Sunny
+D1759  ,Light Precipitation
+D1760  ,Cloudy and Overcast
+D1761  ,Cloudy and Overcast
+D1762  ,Cloudy and Overcast
+D1763  ,Clear and Sunny
+D1764  ,Mist or Fog
+D1765  ,Cloudy and Overcast
+D1766  ,Light Precipitation
+D1767  ,Mist or Fog
+D1768  ,Light Precipitation
+D1769  ,Partly Cloudy
+D1770  ,Mist or Fog
+D1771  ,Clear and Sunny
+D1772  ,Cloudy and Overcast
+D1773  ,Cloudy and Overcast
+D1774  ,Light Rain with Thunder
+D1775  ,Thunderstorms
+D1776  ,Partly Cloudy
+D1777  ,Partly Cloudy
+D1778  ,Partly Cloudy
+D1779  ,Cloudy and Overcast
+D1780  ,Partly Cloudy
+D1781  ,Partly Cloudy
+D1782  ,Partly Cloudy
+D1783  ,Cloudy and Overcast
+D1784  ,Partly Cloudy
+D1785  ,Cloudy and Overcast
+D1786  ,Partly Cloudy
+D1787  ,Partly Cloudy
+D1788  ,Light Precipitation
+D1789  ,Cloudy and Overcast
+D1790  ,Light Precipitation
+D1791  ,Partly Cloudy
+D1792  ,Partly Cloudy
+D1793  ,Light Precipitation
+D1794  ,Clear and Sunny
+D1795  ,Clear and Sunny
+D1796  ,Light Precipitation
+D1797  ,Light Precipitation
+D1798  ,Clear and Sunny
+D1799  ,Partly Cloudy
+D1800  ,Light Precipitation
+D1801  ,Partly Cloudy
+D1802  ,Light Precipitation
+D1803  ,Light Precipitation
+D1804  ,Clear and Sunny
+D1805  ,Light Precipitation
+D1806  ,Clear and Sunny
+D1807  ,Clear and Sunny
+D1808  ,Clear and Sunny
+D1809  ,Light Precipitation
+D1810  ,Light Rain with Thunder
+D1811  ,Cloudy and Overcast
+D1812  ,Clear and Sunny
+D1813  ,Thunderstorms
+D1814  ,Clear and Sunny
+D1815  ,Light Precipitation
+D1816  ,Light Rain with Thunder
+D1817  ,Clear and Sunny
+D1818  ,Clear and Sunny
+D1819  ,Light Precipitation
+D1820  ,Mist or Fog
+D1821  ,Light Precipitation
+D1822  ,Partly Cloudy
+D1823  ,Light Precipitation
+D1824  ,Clear and Sunny
+D1825  ,Light Precipitation
+D1826  ,Rain Showers
+D1827  ,Clear and Sunny
+D1828  ,Clear and Sunny
+D1829  ,Clear and Sunny
+D1830  ,Clear and Sunny
+D1831  ,Partly Cloudy
+D1832  ,Mist or Fog
+D1833  ,Clear and Sunny
+D1834  ,Light Precipitation
+D1835  ,Cloudy and Overcast
+D1836  ,Clear and Sunny
+D1837  ,Light Precipitation
+D1838  ,Mist or Fog
+D1839  ,Rain Showers
+D1840  ,Partly Cloudy
+D1841  ,Partly Cloudy
+D1842  ,Light Precipitation
+D1843  ,Partly Cloudy
+D1844  ,Clear and Sunny
+D1845  ,Partly Cloudy
+D1846  ,Clear and Sunny
+D1847  ,Cloudy and Overcast
+D1848  ,Clear and Sunny
+D1849  ,Partly Cloudy
+D1850  ,Partly Cloudy
+D1851  ,Clear and Sunny
+D1852  ,Partly Cloudy
+D1853  ,Rain Showers
+D1854  ,Mist or Fog
+D1855  ,Mist or Fog
+D1856  ,Partly Cloudy
+D1857  ,Clear and Sunny
+D1858  ,Clear and Sunny
+D1859  ,Clear and Sunny
+D1860  ,Clear and Sunny
+D1861  ,Clear and Sunny
+D1862  ,Light Precipitation
+D1863  ,Partly Cloudy
+D1864  ,Partly Cloudy
+D1865  ,Cloudy and Overcast
+D1866  ,Clear and Sunny
+D1867  ,Clear and Sunny
+D1868  ,Clear and Sunny
+D1869  ,Clear and Sunny
+D1870  ,Partly Cloudy
+D1871  ,Clear and Sunny
+D1872  ,Cloudy and Overcast
+D1873  ,Light Precipitation
+D1874  ,Light Precipitation
+D1875  ,Light Precipitation
+D1876  ,Cloudy and Overcast
+D1877  ,Light Precipitation
+D1878  ,Light Precipitation
+D1879  ,Cloudy and Overcast
+D1880  ,Light Precipitation
+D1881  ,Light Precipitation
+D1882  ,Partly Cloudy
+D1883  ,Partly Cloudy
+D1884  ,Mist or Fog
+D1885  ,Cloudy and Overcast
+D1886  ,Light Precipitation
+D1887  ,Partly Cloudy
+D1888  ,Partly Cloudy
+D1889  ,Cloudy and Overcast
+D1890  ,Mist or Fog
+D1891  ,Clear and Sunny
+D1892  ,Cloudy and Overcast
+D1893  ,Light Rain with Thunder
+D1894  ,Cloudy and Overcast
+D1895  ,Clear and Sunny
+D1896  ,Rain Showers
+D1897  ,Light Precipitation
+D1898  ,Partly Cloudy
+D1899  ,Clear and Sunny
+D1900  ,Mist or Fog
+D1901  ,Cloudy and Overcast
+D1902  ,Clear and Sunny
+D1903  ,Light Precipitation
+D1904  ,Clear and Sunny
+D1905  ,Light Precipitation
+D1906  ,Clear and Sunny
+D1907  ,Clear and Sunny
+D1908  ,Clear and Sunny
+D1909  ,Clear and Sunny
+D1910  ,Clear and Sunny
+D1911  ,Clear and Sunny
+D1912  ,Clear and Sunny
+D1913  ,Clear and Sunny
+D1914  ,Clear and Sunny
+D1915  ,Clear and Sunny
+D1916  ,Clear and Sunny
+D1917  ,Clear and Sunny
+D1918  ,Clear and Sunny
+D1919  ,Clear and Sunny
+D1920  ,Partly Cloudy
+D1921  ,Clear and Sunny
+D1922  ,Light Precipitation
+D1923  ,Partly Cloudy
+D1924  ,Light Precipitation
+D1925  ,Clear and Sunny
+D1926  ,Clear and Sunny
+D1927  ,Clear and Sunny
+D1928  ,Clear and Sunny
+D1929  ,Clear and Sunny
+D1930  ,Clear and Sunny
+D1931  ,Clear and Sunny
+D1932  ,Light Precipitation
+D1933  ,Clear and Sunny
+D1934  ,Clear and Sunny
+D1935  ,Clear and Sunny
+D1936  ,Clear and Sunny
+D1937  ,Clear and Sunny
+D1938  ,Clear and Sunny
+D1939  ,Clear and Sunny
+D1940  ,Clear and Sunny
+D1941  ,Clear and Sunny
+D1942  ,Light Precipitation
+D1943  ,Light Precipitation
+D1944  ,Light Precipitation
+D1945  ,Cloudy and Overcast
+D1946  ,Light Precipitation
+D1947  ,Light Precipitation
+D1948  ,Light Precipitation
+D1949  ,Clear and Sunny
+D1950  ,Light Precipitation
+D1951  ,Mist or Fog
+D1952  ,Light Precipitation
+D1953  ,Light Precipitation
+D1954  ,Light Precipitation
+D1955  ,Light Precipitation
+D1956  ,Light Precipitation
+D1957  ,Light Precipitation
+D1958  ,Light Precipitation
+D1959  ,Mist or Fog
+D1960  ,Light Precipitation
+D1961  ,Cloudy and Overcast
+D1962  ,Mist or Fog
+D1963  ,Light Precipitation
+D1964  ,Partly Cloudy
+D1965  ,Cloudy and Overcast
+D1966  ,Partly Cloudy
+D1967  ,Mist or Fog
+D1968  ,Light Precipitation
+D1969  ,Cloudy and Overcast
+D1970  ,Partly Cloudy
+D1971  ,Mist or Fog
+D1972  ,Clear and Sunny
+D1973  ,Partly Cloudy
+D1974  ,Light Precipitation
+D1975  ,Light Precipitation
+D1976  ,Light Precipitation
+D1977  ,Rain Showers
+D1978  ,Mist or Fog
+D1979  ,Clear and Sunny
+D1980  ,Light Precipitation
+D1981  ,Clear and Sunny
+D1982  ,Clear and Sunny
+D1983  ,Partly Cloudy
+D1984  ,Partly Cloudy
+D1985  ,Clear and Sunny
+D1986  ,Clear and Sunny
+D1987  ,Clear and Sunny
+D1988  ,Partly Cloudy
+D1989  ,Partly Cloudy
+D1990  ,Clear and Sunny
+D1991  ,Partly Cloudy
+D1992  ,Clear and Sunny
+D1993  ,Clear and Sunny
+D1994  ,Clear and Sunny
+D1995  ,Partly Cloudy
+D1996  ,Light Precipitation
+D1997  ,Partly Cloudy
+D1998  ,Partly Cloudy
+D1999  ,Clear and Sunny
+D2000  ,Light Precipitation
+D2001  ,Partly Cloudy
+D2002  ,Clear and Sunny
+D2003  ,Clear and Sunny
+D2004  ,Light Precipitation
+D2005  ,Clear and Sunny
+D2006  ,Clear and Sunny
+D2007  ,Clear and Sunny
+D2008  ,Partly Cloudy
+D2009  ,Partly Cloudy
+D2010  ,Cloudy and Overcast
+D2011  ,Clear and Sunny
+D2012  ,Clear and Sunny
+D2013  ,Clear and Sunny
+D2014  ,Clear and Sunny
+D2015  ,Partly Cloudy
+D2016  ,Partly Cloudy
+D2017  ,Partly Cloudy
+D2018  ,Cloudy and Overcast
+D2019  ,Partly Cloudy
+D2020  ,Clear and Sunny
+D2021  ,Clear and Sunny
+D2022  ,Partly Cloudy
+D2023  ,Clear and Sunny
+D2024  ,Cloudy and Overcast
+D2025  ,Clear and Sunny
+D2026  ,Partly Cloudy
+D2027  ,Mist or Fog
+D2028  ,Clear and Sunny
+D2029  ,Partly Cloudy
+D2030  ,Partly Cloudy
+D2031  ,Partly Cloudy
+D2032  ,Clear and Sunny
+D2033  ,Clear and Sunny
+D2034  ,Clear and Sunny
+D2035  ,Clear and Sunny
+D2036  ,Clear and Sunny
+D2037  ,Clear and Sunny
+D2038  ,Clear and Sunny
+D2039  ,Clear and Sunny
+D2040  ,Clear and Sunny
+D2041  ,Clear and Sunny
+D2042  ,Clear and Sunny
+D2043  ,Clear and Sunny
+D2044  ,Clear and Sunny
+D2045  ,Clear and Sunny
+D2046  ,Clear and Sunny
+D2047  ,Mist or Fog
+D2048  ,Clear and Sunny
+D2049  ,Partly Cloudy
+D2050  ,Clear and Sunny
+D2051  ,Clear and Sunny
+D2052  ,Light Precipitation
+D2053  ,Clear and Sunny
+D2054  ,Partly Cloudy
+D2055  ,Cloudy and Overcast
+D2056  ,Light Precipitation
+D2057  ,Light Precipitation
+D2058  ,Partly Cloudy
+D2059  ,Clear and Sunny
+D2060  ,Clear and Sunny
+D2061  ,Clear and Sunny
+D2062  ,Clear and Sunny
+D2063  ,Clear and Sunny
+D2064  ,Clear and Sunny
+D2065  ,Light Precipitation
+D2066  ,Clear and Sunny
+D2067  ,Mist or Fog
+D2068  ,Light Precipitation
+D2069  ,Cloudy and Overcast
+D2070  ,Partly Cloudy
+D2071  ,Cloudy and Overcast
+D2072  ,Clear and Sunny
+D2073  ,Clear and Sunny
+D2074  ,Partly Cloudy
+D2075  ,Mist or Fog
+D2076  ,Light Precipitation
+D2077  ,Cloudy and Overcast
+D2078  ,Partly Cloudy
+D2079  ,Clear and Sunny
+D2080  ,Partly Cloudy
+D2081  ,Light Rain with Thunder
+D2082  ,Partly Cloudy
+D2083  ,Cloudy and Overcast
+D2084  ,Light Rain with Thunder
+D2085  ,Partly Cloudy
+D2086  ,Cloudy and Overcast
+D2087  ,Partly Cloudy
+D2088  ,Rain Showers
+D2089  ,Light Precipitation
+D2090  ,Cloudy and Overcast
+D2091  ,Light Precipitation
+D2092  ,Cloudy and Overcast
+D2093  ,Light Precipitation
+D2094  ,Partly Cloudy
+D2095  ,Light Rain with Thunder
+D2096  ,Clear and Sunny
+D2097  ,Cloudy and Overcast
+D2098  ,Light Precipitation
+D2099  ,Rain Showers
+D2100  ,Cloudy and Overcast
+D2101  ,Light Precipitation
+D2102  ,Partly Cloudy
+D2103  ,Light Precipitation
+D2104  ,Cloudy and Overcast
+D2105  ,Partly Cloudy
+D2106  ,Clear and Sunny
+D2107  ,Clear and Sunny
+D2108  ,Light Precipitation
+D2109  ,Light Precipitation
+D2110  ,Cloudy and Overcast
+D2111  ,Partly Cloudy
+D2112  ,Partly Cloudy
+D2113  ,Partly Cloudy
+D2114  ,Cloudy and Overcast
+D2115  ,Partly Cloudy
+D2116  ,Cloudy and Overcast
+D2117  ,Cloudy and Overcast
+D2118  ,Light Precipitation
+D2119  ,Mist or Fog
+D2120  ,Cloudy and Overcast
+D2121  ,Cloudy and Overcast
+D2122  ,Cloudy and Overcast
+D2123  ,Cloudy and Overcast
+D2124  ,Partly Cloudy
+D2125  ,Cloudy and Overcast
+D2126  ,Partly Cloudy
+D2127  ,Cloudy and Overcast
+D2128  ,Clear and Sunny
+D2129  ,Cloudy and Overcast
+D2130  ,Partly Cloudy
+D2131  ,Cloudy and Overcast
+D2132  ,Light Precipitation
+D2133  ,Light Precipitation
+D2134  ,Cloudy and Overcast
+D2135  ,Mist or Fog
+D2136  ,Light Precipitation
+D2137  ,Partly Cloudy
+D2138  ,Partly Cloudy
+D2139  ,Cloudy and Overcast
+D2140  ,Partly Cloudy
+D2141  ,Partly Cloudy
+D2142  ,Partly Cloudy
+D2143  ,Cloudy and Overcast
+D2144  ,Partly Cloudy
+D2145  ,Thunderstorms
+D2146  ,Partly Cloudy
+D2147  ,Partly Cloudy
+D2148  ,Cloudy and Overcast
+D2149  ,Cloudy and Overcast
+D2150  ,Partly Cloudy
+D2151  ,Cloudy and Overcast
+D2152  ,Cloudy and Overcast
+D2153  ,Light Precipitation
+D2154  ,Light Precipitation
+D2155  ,Light Precipitation
+D2156  ,Rain Showers
+D2157  ,Cloudy and Overcast
+D2158  ,Light Precipitation
+D2159  ,Mist or Fog
+D2160  ,Partly Cloudy
+D2161  ,Clear and Sunny
+D2162  ,Clear and Sunny
+D2163  ,Clear and Sunny
+D2164  ,Clear and Sunny
+D2165  ,Clear and Sunny
+D2166  ,Clear and Sunny
+D2167  ,Clear and Sunny
+D2168  ,Clear and Sunny
+D2169  ,Clear and Sunny
+D2170  ,Clear and Sunny
+D2171  ,Clear and Sunny
+D2172  ,Clear and Sunny
+D2173  ,Clear and Sunny
+D2174  ,Partly Cloudy
+D2175  ,Light Precipitation
+D2176  ,Clear and Sunny
+D2177  ,Partly Cloudy
+D2178  ,Partly Cloudy
+D2179  ,Clear and Sunny
+D2180  ,Cloudy and Overcast
+D2181  ,Light Precipitation
+D2182  ,Partly Cloudy
+D2183  ,Cloudy and Overcast
+D2184  ,Clear and Sunny
+D2185  ,Clear and Sunny
+D2186  ,Clear and Sunny
+D2187  ,Clear and Sunny
+D2188  ,Clear and Sunny
+D2189  ,Clear and Sunny
+D2190  ,Clear and Sunny
+D2191  ,Clear and Sunny
+D2192  ,Clear and Sunny
+D2193  ,Clear and Sunny
+D2194  ,Clear and Sunny
+D2195  ,Clear and Sunny
+D2196  ,Clear and Sunny
+D2197  ,Clear and Sunny
+D2198  ,Clear and Sunny
+D2199  ,Clear and Sunny
+D2200  ,Clear and Sunny
+D2201  ,Clear and Sunny
+D2202  ,Clear and Sunny
+D2203  ,Clear and Sunny
+D2204  ,Clear and Sunny
+D2205  ,Clear and Sunny
+D2206  ,Clear and Sunny
+D2207  ,Clear and Sunny
+D2208  ,Clear and Sunny
+D2209  ,Clear and Sunny
+D2210  ,Mist or Fog
+D2211  ,Rain Showers
+D2212  ,Light Precipitation
+D2213  ,Light Precipitation
+D2214  ,Mist or Fog
+D2215  ,Rain Showers
+D2216  ,Cloudy and Overcast
+D2217  ,Mist or Fog
+D2218  ,Light Rain with Thunder
+D2219  ,Cloudy and Overcast
+D2220  ,Thunderstorms
+D2221  ,Light Precipitation
+D2222  ,Cloudy and Overcast
+D2223  ,Rain Showers
+D2224  ,Light Rain with Thunder
+D2225  ,Rain Showers
+D2226  ,Clear and Sunny
+D2227  ,Cloudy and Overcast
+D2228  ,Rain Showers
+D2229  ,Rain Showers
+D2230  ,Thunderstorms
+D2231  ,Light Precipitation
+D2232  ,Light Rain with Thunder
+D2233  ,Partly Cloudy
+D2234  ,Clear and Sunny
+D2235  ,Rain Showers
+D2236  ,Light Precipitation
+D2237  ,Light Precipitation
+D2238  ,Clear and Sunny
+D2239  ,Mist or Fog
+D2240  ,Partly Cloudy
+D2241  ,Clear and Sunny
+D2242  ,Clear and Sunny
+D2243  ,Clear and Sunny
+D2244  ,Partly Cloudy
+D2245  ,Clear and Sunny
+D2246  ,Clear and Sunny
+D2247  ,Clear and Sunny
+D2248  ,Clear and Sunny
+D2249  ,Clear and Sunny
+D2250  ,Partly Cloudy
+D2251  ,Clear and Sunny
+D2252  ,Clear and Sunny
+D2253  ,Clear and Sunny
+D2254  ,Light Precipitation
+D2255  ,Light Precipitation
+D2256  ,Light Precipitation
+D2257  ,Clear and Sunny
+D2258  ,Partly Cloudy
+D2259  ,Clear and Sunny
+D2260  ,Partly Cloudy
+D2261  ,Clear and Sunny
+D2262  ,Partly Cloudy
+D2263  ,Moderate to Heavy Rain
+D2264  ,Light Precipitation
+D2265  ,Mist or Fog
+D2266  ,Cloudy and Overcast
+D2267  ,Mist or Fog
+D2268  ,Partly Cloudy
+D2269  ,Moderate to Heavy Rain
+D2270  ,Light Precipitation
+D2271  ,Light Precipitation
+D2272  ,Cloudy and Overcast
+D2273  ,Mist or Fog
+D2274  ,Partly Cloudy
+D2275  ,Mist or Fog
+D2276  ,Light Precipitation
+D2277  ,Rain Showers
+D2278  ,Partly Cloudy
+D2279  ,Cloudy and Overcast
+D2280  ,Cloudy and Overcast
+D2281  ,Mist or Fog
+D2282  ,Light Precipitation
+D2283  ,Light Precipitation
+D2284  ,Mist or Fog
+D2285  ,Light Precipitation
+D2286  ,Rain Showers
+D2287  ,Rain Showers
+D2288  ,Partly Cloudy
+D2289  ,Light Rain with Thunder
+D2290  ,Partly Cloudy
+D2291  ,Light Precipitation
+D2292  ,Partly Cloudy
+D2293  ,Light Precipitation
+D2294  ,Light Precipitation
+D2295  ,Partly Cloudy
+D2296  ,Partly Cloudy
+D2297  ,Light Precipitation
+D2298  ,Partly Cloudy
+D2299  ,Partly Cloudy
+D2300  ,Light Precipitation
+D2301  ,Light Rain with Thunder
+D2302  ,Light Precipitation
+D2303  ,Partly Cloudy
+D2304  ,Partly Cloudy
+D2305  ,Partly Cloudy
+D2306  ,Partly Cloudy
+D2307  ,Cloudy and Overcast
+D2308  ,Rain Showers
+D2309  ,Light Precipitation
+D2310  ,Light Precipitation
+D2311  ,Cloudy and Overcast
+D2312  ,Rain Showers
+D2313  ,Light Precipitation
+D2314  ,Mist or Fog
+D2315  ,Cloudy and Overcast
+D2316  ,Light Precipitation
+D2317  ,Mist or Fog
+D2318  ,Clear and Sunny
+D2319  ,Clear and Sunny
+D2320  ,Mist or Fog
+D2321  ,Clear and Sunny
+D2322  ,Partly Cloudy
+D2323  ,Clear and Sunny
+D2324  ,Clear and Sunny
+D2325  ,Partly Cloudy
+D2326  ,Clear and Sunny
+D2327  ,Partly Cloudy
+D2328  ,Clear and Sunny
+D2329  ,Clear and Sunny
+D2330  ,Light Precipitation
+D2331  ,Light Precipitation
+D2332  ,Cloudy and Overcast
+D2333  ,Partly Cloudy
+D2334  ,Partly Cloudy
+D2335  ,Rain Showers
+D2336  ,Light Precipitation
+D2337  ,Cloudy and Overcast
+D2338  ,Cloudy and Overcast
+D2339  ,Mist or Fog
+D2340  ,Light Precipitation
+D2341  ,Light Precipitation
+D2342  ,Light Precipitation
+D2343  ,Light Precipitation
+D2344  ,Partly Cloudy
+D2345  ,Clear and Sunny
+D2346  ,Partly Cloudy
+D2347  ,Partly Cloudy
+D2348  ,Partly Cloudy
+D2349  ,Partly Cloudy
+D2350  ,Partly Cloudy
+D2351  ,Light Precipitation
+D2352  ,Light Precipitation
+D2353  ,Light Precipitation
+D2354  ,Partly Cloudy
+D2355  ,Light Precipitation
+D2356  ,Light Precipitation
+D2357  ,Partly Cloudy
+D2358  ,Light Precipitation
+D2359  ,Light Precipitation
+D2360  ,Rain Showers
+D2361  ,Mist or Fog
+D2362  ,Light Precipitation
+D2363  ,Rain Showers
+D2364  ,Partly Cloudy
+D2365  ,Light Precipitation
+D2366  ,Clear and Sunny
+D2367  ,Clear and Sunny
+D2368  ,Clear and Sunny
+D2369  ,Clear and Sunny
+D2370  ,Clear and Sunny
+D2371  ,Clear and Sunny
+D2372  ,Clear and Sunny
+D2373  ,Clear and Sunny
+D2374  ,Clear and Sunny
+D2375  ,Clear and Sunny
+D2376  ,Clear and Sunny
+D2377  ,Clear and Sunny
+D2378  ,Clear and Sunny
+D2379  ,Clear and Sunny
+D2380  ,Clear and Sunny
+D2381  ,Clear and Sunny
+D2382  ,Clear and Sunny
+D2383  ,Light Precipitation
+D2384  ,Clear and Sunny
+D2385  ,Clear and Sunny
+D2386  ,Clear and Sunny
+D2387  ,Clear and Sunny
+D2388  ,Clear and Sunny
+D2389  ,Clear and Sunny
+D2390  ,Clear and Sunny
+D2391  ,Clear and Sunny
+D2392  ,Cloudy and Overcast
+D2393  ,Cloudy and Overcast
+D2394  ,Cloudy and Overcast
+D2395  ,Light Precipitation
+D2396  ,Clear and Sunny
+D2397  ,Cloudy and Overcast
+D2398  ,Light Precipitation
+D2399  ,Cloudy and Overcast
+D2400  ,Clear and Sunny
+D2401  ,Light Precipitation
+D2402  ,Clear and Sunny
+D2403  ,Clear and Sunny
+D2404  ,Clear and Sunny
+D2405  ,Mist or Fog
+D2406  ,Clear and Sunny
+D2407  ,Light Precipitation
+D2408  ,Light Precipitation
+D2409  ,Light Precipitation
+D2410  ,Partly Cloudy
+D2411  ,Rain Showers
+D2412  ,Clear and Sunny
+D2413  ,Partly Cloudy
+D2414  ,Light Precipitation
+D2415  ,Clear and Sunny
+D2416  ,Light Precipitation
+D2417  ,Cloudy and Overcast
+D2418  ,Clear and Sunny
+D2419  ,Clear and Sunny
+D2420  ,Clear and Sunny
+D2421  ,Clear and Sunny
+D2422  ,Clear and Sunny
+D2423  ,Partly Cloudy
+D2424  ,Cloudy and Overcast
+D2425  ,Light Precipitation
+D2426  ,Clear and Sunny
+D2427  ,Clear and Sunny
+D2428  ,Clear and Sunny
+D2429  ,Thunderstorms
+D2430  ,Mist or Fog
+D2431  ,Mist or Fog
+D2432  ,Clear and Sunny
+D2433  ,Clear and Sunny
+D2434  ,Partly Cloudy
+D2435  ,Clear and Sunny
+D2436  ,Clear and Sunny
+D2437  ,Clear and Sunny
+D2438  ,Partly Cloudy
+D2439  ,Mist or Fog
+D2440  ,Cloudy and Overcast
+D2441  ,Clear and Sunny
+D2442  ,Cloudy and Overcast
+D2443  ,Rain Showers
+D2444  ,Cloudy and Overcast
+D2445  ,Moderate to Heavy Rain
+D2446  ,Partly Cloudy
+D2447  ,Cloudy and Overcast
+D2448  ,Partly Cloudy
+D2449  ,Cloudy and Overcast
+D2450  ,Mist or Fog
+D2451  ,Mist or Fog
+D2452  ,Mist or Fog
+D2453  ,Partly Cloudy
+D2454  ,Mist or Fog
+D2455  ,Cloudy and Overcast
+D2456  ,Light Precipitation
+D2457  ,Light Rain with Thunder
+D2458  ,Partly Cloudy
+D2459  ,Partly Cloudy
+D2460  ,Light Precipitation
+D2461  ,Cloudy and Overcast
+D2462  ,Cloudy and Overcast
+D2463  ,Light Precipitation
+D2464  ,Cloudy and Overcast
+D2465  ,Partly Cloudy
+D2466  ,Light Precipitation
+D2467  ,Cloudy and Overcast
+D2468  ,Partly Cloudy
+D2469  ,Mist or Fog
+D2470  ,Cloudy and Overcast
+D2471  ,Clear and Sunny
+D2472  ,Clear and Sunny
+D2473  ,Clear and Sunny
+D2474  ,Light Rain with Thunder
+D2475  ,Light Precipitation
+D2476  ,Clear and Sunny
+D2477  ,Clear and Sunny
+D2478  ,Clear and Sunny
+D2479  ,Partly Cloudy
+D2480  ,Light Precipitation
+D2481  ,Clear and Sunny
+D2482  ,Clear and Sunny
+D2483  ,Clear and Sunny
+D2484  ,Clear and Sunny
+D2485  ,Clear and Sunny
+D2486  ,Clear and Sunny
+D2487  ,Clear and Sunny
+D2488  ,Clear and Sunny
+D2489  ,Clear and Sunny
+D2490  ,Clear and Sunny
+D2491  ,Clear and Sunny
+D2492  ,Clear and Sunny
+D2493  ,Clear and Sunny
+D2494  ,Clear and Sunny
+D2495  ,Clear and Sunny
+D2496  ,Light Precipitation
+D2497  ,Clear and Sunny
+D2498  ,Cloudy and Overcast
+D2499  ,Light Precipitation
+D2500  ,Clear and Sunny
+D2501  ,Light Precipitation
+D2502  ,Clear and Sunny
+D2503  ,Cloudy and Overcast
+D2504  ,Clear and Sunny
+D2505  ,Clear and Sunny
+D2506  ,Partly Cloudy
+D2507  ,Light Precipitation
+D2508  ,Clear and Sunny
+D2509  ,Cloudy and Overcast
+D2510  ,Cloudy and Overcast
+D2511  ,Partly Cloudy
+D2512  ,Partly Cloudy
+D2513  ,Cloudy and Overcast
+D2514  ,Light Precipitation
+D2515  ,Light Precipitation
+D2516  ,Cloudy and Overcast
+D2517  ,Partly Cloudy
+D2518  ,Light Precipitation
+D2519  ,Light Precipitation
+D2520  ,Moderate to Heavy Rain
+D2521  ,Cloudy and Overcast
+D2522  ,Clear and Sunny
+D2523  ,Clear and Sunny
+D2524  ,Clear and Sunny
+D2525  ,Clear and Sunny
+D2526  ,Clear and Sunny
+D2527  ,Clear and Sunny
+D2528  ,Clear and Sunny
+D2529  ,Clear and Sunny
+D2530  ,Clear and Sunny
+D2531  ,Clear and Sunny
+D2532  ,Clear and Sunny
+D2533  ,Clear and Sunny
+D2534  ,Partly Cloudy
+D2535  ,Partly Cloudy
+D2536  ,Clear and Sunny
+D2537  ,Clear and Sunny
+D2538  ,Clear and Sunny
+D2539  ,Clear and Sunny
+D2540  ,Clear and Sunny
+D2541  ,Clear and Sunny
+D2542  ,Clear and Sunny
+D2543  ,Clear and Sunny
+D2544  ,Clear and Sunny
+D2545  ,Clear and Sunny
+D2546  ,Clear and Sunny
+D2547  ,Clear and Sunny
+D2548  ,Clear and Sunny
+D2549  ,Cloudy and Overcast
+D2550  ,Clear and Sunny
+D2551  ,Partly Cloudy
+D2552  ,Clear and Sunny
+D2553  ,Clear and Sunny
+D2554  ,Clear and Sunny
+D2555  ,Clear and Sunny
+D2556  ,Clear and Sunny
+D2557  ,Clear and Sunny
+D2558  ,Clear and Sunny
+D2559  ,Clear and Sunny
+D2560  ,Clear and Sunny
+D2561  ,Clear and Sunny
+D2562  ,Mist or Fog
+D2563  ,Light Precipitation
+D2564  ,Cloudy and Overcast
+D2565  ,Partly Cloudy
+D2566  ,Clear and Sunny
+D2567  ,Clear and Sunny
+D2568  ,Light Precipitation
+D2569  ,Light Precipitation
+D2570  ,Light Precipitation
+D2571  ,Clear and Sunny
+D2572  ,Light Precipitation
+D2573  ,Clear and Sunny
+D2574  ,Clear and Sunny
+D2575  ,Clear and Sunny
+D2576  ,Clear and Sunny
+D2577  ,Clear and Sunny
+D2578  ,Clear and Sunny
+D2579  ,Clear and Sunny
+D2580  ,Clear and Sunny
+D2581  ,Clear and Sunny
+D2582  ,Clear and Sunny
+D2583  ,Clear and Sunny
+D2584  ,Clear and Sunny
+D2585  ,Clear and Sunny
+D2586  ,Clear and Sunny
+D2587  ,Clear and Sunny
+D2588  ,Clear and Sunny
+D2589  ,Light Precipitation
+D2590  ,Clear and Sunny
+D2591  ,Clear and Sunny
+D2592  ,Clear and Sunny
+D2593  ,Clear and Sunny
+D2594  ,Clear and Sunny
+D2595  ,Clear and Sunny
+D2596  ,Clear and Sunny
+D2597  ,Clear and Sunny
+D2598  ,Clear and Sunny
+D2599  ,Rain Showers
+D2600  ,Partly Cloudy
+D2601  ,Cloudy and Overcast
+D2602  ,Partly Cloudy
+D2603  ,Light Precipitation
+D2604  ,Partly Cloudy
+D2605  ,Partly Cloudy
+D2606  ,Partly Cloudy
+D2607  ,Light Precipitation
+D2608  ,Partly Cloudy
+D2609  ,Partly Cloudy
+D2610  ,Partly Cloudy
+D2611  ,Partly Cloudy
+D2612  ,Partly Cloudy
+D2613  ,Cloudy and Overcast
+D2614  ,Partly Cloudy
+D2615  ,Cloudy and Overcast
+D2616  ,Partly Cloudy
+D2617  ,Mist or Fog
+D2618  ,Mist or Fog
+D2619  ,Cloudy and Overcast
+D2620  ,Mist or Fog
+D2621  ,Light Precipitation
+D2622  ,Rain Showers
+D2623  ,Cloudy and Overcast
+D2624  ,Mist or Fog
+D2625  ,Partly Cloudy
+D2626  ,Clear and Sunny
+D2627  ,Clear and Sunny
+D2628  ,Clear and Sunny
+D2629  ,Clear and Sunny
+D2630  ,Thunderstorms
+D2631  ,Light Precipitation
+D2632  ,Light Precipitation
+D2633  ,Partly Cloudy
+D2634  ,Clear and Sunny
+D2635  ,Clear and Sunny
+D2636  ,Clear and Sunny
+D2637  ,Clear and Sunny
+D2638  ,Clear and Sunny
+D2639  ,Clear and Sunny
+D2640  ,Clear and Sunny
+D2641  ,Clear and Sunny
+D2642  ,Partly Cloudy
+D2643  ,Clear and Sunny
+D2644  ,Clear and Sunny
+D2645  ,Clear and Sunny
+D2646  ,Clear and Sunny
+D2647  ,Clear and Sunny
+D2648  ,Clear and Sunny
+D2649  ,Clear and Sunny
+D2650  ,Clear and Sunny
+D2651  ,Clear and Sunny
+D2652  ,Light Precipitation
+D2653  ,Clear and Sunny
+D2654  ,Clear and Sunny
+D2655  ,Clear and Sunny
+D2656  ,Clear and Sunny
+D2657  ,Clear and Sunny
+D2658  ,Clear and Sunny
+D2659  ,Clear and Sunny
+D2660  ,Clear and Sunny
+D2661  ,Clear and Sunny
+D2662  ,Mist or Fog
+D2663  ,Clear and Sunny
+D2664  ,Light Precipitation
+D2665  ,Clear and Sunny
+D2666  ,Clear and Sunny
+D2667  ,Clear and Sunny
+D2668  ,Clear and Sunny
+D2669  ,Clear and Sunny
+D2670  ,Clear and Sunny
+D2671  ,Clear and Sunny
+D2672  ,Cloudy and Overcast
+D2673  ,Partly Cloudy
+D2674  ,Clear and Sunny
+D2675  ,Clear and Sunny
+D2676  ,Clear and Sunny
+D2677  ,Light Precipitation
+D2678  ,Light Precipitation
+D2679  ,Light Precipitation
+D2680  ,Partly Cloudy
+D2681  ,Light Precipitation
+D2682  ,Light Precipitation
+D2683  ,Mist or Fog
+D2684  ,Mist or Fog
+D2685  ,Rain Showers
+D2686  ,Light Precipitation
+D2687  ,Mist or Fog
+D2688  ,Light Precipitation
+D2689  ,Light Precipitation
+D2690  ,Light Precipitation
+D2691  ,Cloudy and Overcast
+D2692  ,Light Precipitation
+D2693  ,Partly Cloudy
+D2694  ,Light Precipitation
+D2695  ,Light Precipitation
+D2696  ,Light Precipitation
+D2697  ,Light Precipitation
+D2698  ,Cloudy and Overcast
+D2699  ,Partly Cloudy
+D2700  ,Light Precipitation
+D2701  ,Light Precipitation
+D2702  ,Clear and Sunny
+D2703  ,Light Precipitation
+D2704  ,Mist or Fog
+D2705  ,Mist or Fog
+D2706  ,Partly Cloudy
+D2707  ,Light Precipitation
+D2708  ,Clear and Sunny
+D2709  ,Clear and Sunny
+D2710  ,Partly Cloudy
+D2711  ,Partly Cloudy
+D2712  ,Clear and Sunny
+D2713  ,Clear and Sunny
+D2714  ,Partly Cloudy
+D2715  ,Light Precipitation
+D2716  ,Partly Cloudy
+D2717  ,Rain Showers
+D2718  ,Light Precipitation
+D2719  ,Partly Cloudy
+D2720  ,Light Precipitation
+D2721  ,Light Precipitation
+D2722  ,Light Precipitation
+D2723  ,Clear and Sunny
+D2724  ,Clear and Sunny
+D2725  ,Light Precipitation
+D2726  ,Light Precipitation
+D2727  ,Light Precipitation
+D2728  ,Mist or Fog
+D2729  ,Mist or Fog
+D2730  ,Light Precipitation
+D2731  ,Light Precipitation
+D2732  ,Light Precipitation
+D2733  ,Light Precipitation
+D2734  ,Mist or Fog
+D2735  ,Mist or Fog
+D2736  ,Mist or Fog
+D2737  ,Rain Showers
+D2738  ,Clear and Sunny
+D2739  ,Light Precipitation
+D2740  ,Cloudy and Overcast
+D2741  ,Light Precipitation
+D2742  ,Cloudy and Overcast
+D2743  ,Light Precipitation
+D2744  ,Mist or Fog
+D2745  ,Light Precipitation
+D2746  ,Partly Cloudy
+D2747  ,Light Precipitation
+D2748  ,Partly Cloudy
+D2749  ,Cloudy and Overcast
+D2750  ,Partly Cloudy
+D2751  ,Mist or Fog
+D2752  ,Rain Showers
+D2753  ,Light Precipitation
+D2754  ,Partly Cloudy
+D2755  ,Clear and Sunny
+D2756  ,Clear and Sunny
+D2757  ,Partly Cloudy
+D2758  ,Mist or Fog
+D2759  ,Clear and Sunny
+D2760  ,Cloudy and Overcast
+D2761  ,Cloudy and Overcast
+D2762  ,Cloudy and Overcast
+D2763  ,Partly Cloudy
+D2764  ,Clear and Sunny
+D2765  ,Clear and Sunny
+D2766  ,Clear and Sunny
+D2767  ,Clear and Sunny
+D2768  ,Clear and Sunny
+D2769  ,Clear and Sunny
+D2770  ,Light Precipitation
+D2771  ,Partly Cloudy
+D2772  ,Clear and Sunny
+D2773  ,Cloudy and Overcast
+D2774  ,Light Precipitation
+D2775  ,Clear and Sunny
+D2776  ,Clear and Sunny
+D2777  ,Rain Showers
+D2778  ,Thunderstorms
+D2779  ,Clear and Sunny
+D2780  ,Partly Cloudy
+D2781  ,Clear and Sunny
+D2782  ,Partly Cloudy
+D2783  ,Cloudy and Overcast
+D2784  ,Partly Cloudy
+D2785  ,Mist or Fog
+D2786  ,Mist or Fog
+D2787  ,Light Precipitation
+D2788  ,Mist or Fog
+D2789  ,Light Precipitation
+D2790  ,Clear and Sunny
+D2791  ,Clear and Sunny
+D2792  ,Cloudy and Overcast
+D2793  ,Partly Cloudy
+D2794  ,Light Precipitation
+D2795  ,Partly Cloudy
+D2796  ,Clear and Sunny
+D2797  ,Partly Cloudy
+D2798  ,Clear and Sunny
+D2799  ,Clear and Sunny
+D2800  ,Clear and Sunny
+D2801  ,Clear and Sunny
+D2802  ,Clear and Sunny
+D2803  ,Clear and Sunny
+D2804  ,Clear and Sunny
+D2805  ,Clear and Sunny
+D2806  ,Clear and Sunny
+D2807  ,Clear and Sunny
+D2808  ,Clear and Sunny
+D2809  ,Clear and Sunny
+D2810  ,Clear and Sunny
+D2811  ,Clear and Sunny
+D2812  ,Mist or Fog
+D2813  ,Clear and Sunny
+D2814  ,Clear and Sunny
+D2815  ,Clear and Sunny
+D2816  ,Cloudy and Overcast
+D2817  ,Moderate to Heavy Rain
+D2818  ,Partly Cloudy
+D2819  ,Cloudy and Overcast
+D2820  ,Partly Cloudy
+D2821  ,Light Precipitation
+D2822  ,Partly Cloudy
+D2823  ,Partly Cloudy
+D2824  ,Mist or Fog
+D2825  ,Mist or Fog
+D2826  ,Light Precipitation
+D2827  ,Light Precipitation
+D2828  ,Mist or Fog
+D2829  ,Mist or Fog
+D2830  ,Partly Cloudy
+D2831  ,Cloudy and Overcast
+D2832  ,Moderate to Heavy Rain
+D2833  ,Cloudy and Overcast
+D2834  ,Light Precipitation
+D2835  ,Cloudy and Overcast
+D2836  ,Mist or Fog
+D2837  ,Light Precipitation
+D2838  ,Mist or Fog
+D2839  ,Partly Cloudy
+D2840  ,Light Precipitation
+D2841  ,Light Precipitation
+D2842  ,Light Precipitation
+D2843  ,Light Precipitation
+D2844  ,Rain Showers
+D2845  ,Light Precipitation
+D2846  ,Light Precipitation
+D2847  ,Light Precipitation
+D2848  ,Partly Cloudy
+D2849  ,Partly Cloudy
+D2850  ,Partly Cloudy
+D2851  ,Partly Cloudy
+D2852  ,Light Precipitation
+D2853  ,Clear and Sunny
+D2854  ,Light Precipitation
+D2855  ,Clear and Sunny
+D2856  ,Partly Cloudy
+D2857  ,Partly Cloudy
+D2858  ,Partly Cloudy
+D2859  ,Light Precipitation
+D2860  ,Light Precipitation
+D2861  ,Clear and Sunny
+D2862  ,Cloudy and Overcast
+D2863  ,Partly Cloudy
+D2864  ,Light Precipitation
+D2865  ,Light Precipitation
+D2866  ,Light Precipitation
+D2867  ,Clear and Sunny
+D2868  ,Clear and Sunny
+D2869  ,Clear and Sunny
+D2870  ,Clear and Sunny
+D2871  ,Clear and Sunny
+D2872  ,Clear and Sunny
+D2873  ,Clear and Sunny
+D2874  ,Clear and Sunny
+D2875  ,Clear and Sunny
+D2876  ,Clear and Sunny
+D2877  ,Clear and Sunny
+D2878  ,Clear and Sunny
+D2879  ,Clear and Sunny
+D2880  ,Clear and Sunny
+D2881  ,Clear and Sunny
+D2882  ,Clear and Sunny
+D2883  ,Cloudy and Overcast
+D2884  ,Clear and Sunny
+D2885  ,Clear and Sunny
+D2886  ,Clear and Sunny
+D2887  ,Clear and Sunny
+D2888  ,Clear and Sunny
+D2889  ,Clear and Sunny
+D2890  ,Clear and Sunny
+D2891  ,Clear and Sunny
+D2892  ,Clear and Sunny
+D2893  ,Clear and Sunny
