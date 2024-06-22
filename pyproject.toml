@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "datadragons-predicta-1-0"
+version = "0.1.0"
+description = ""
+authors = ["Jason Mishike <jasonmishi@gmail.com>"]
+readme = "README.md"
+packages = [{include = "datadragons_predicta_1"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.2"
+numpy = "^2.0.0"
+sklearn = "^0.0.post12"
+matplotlib = "^3.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
